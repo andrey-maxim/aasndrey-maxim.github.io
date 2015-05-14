@@ -1,0 +1,80 @@
+/*variables*/
+
+$v:2;
+$c:50;
+
+$p:$v*1px;
+
+
+/*margin*/
+@mixin offset($value){
+  margin: $value !important;
+}
+
+@for $i from 0 through $c {
+  .margin-#{$v*$i}{
+    @include offset($p * $i)
+  }
+}
+
+/*margin-sides*/
+
+@mixin offset($margin, $value){
+  margin-#{$margin}: $value !important
+}
+
+@for $i from 0 through $c {
+  @each $margin in top, left, bottom, right {
+
+    .margin-#{$margin}-#{$v*$i}{
+      @include offset($margin, $p * $i) 
+      
+    }
+  }
+}
+
+
+
+@mixin percent($margin, $value){
+  margin-#{$margin}: percentage($value/100)!important
+}
+
+@for $i from 0 through 20 {
+  @each $margin in top, left, bottom, right {
+
+    .mg-#{$margin}-#{5*$i}{
+      @include percent($margin, 5*$i) 
+    }
+  }
+}
+
+@for $i from 0 through 20 {
+  .top#{5*$i}{
+	top:percentage(5*$i/100)!important
+  }
+}
+
+/*padding*/
+@mixin offset($value){
+  padding: $value !important
+}
+@for $i from 0 through $c {
+    .padding-#{$v*$i}{
+      @include offset($p * $i) 
+  }
+}
+
+/*padding-sides*/
+@mixin offset($margin, $value){
+  padding-#{$margin}: $value !important
+}
+
+@for $i from 0 through $c {
+  @each $margin in top, left, bottom, right {
+
+    .padding-#{$margin}-#{$v*$i}{
+      @include offset($margin, $p * $i) 
+      
+    }
+  }
+}

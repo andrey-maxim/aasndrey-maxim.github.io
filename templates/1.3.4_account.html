@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Modelly App</title>
+
+  <meta name="description" content="">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="cleartype" content="on">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/modelly.css" rel="stylesheet">
+</head>
+<body class="white">
+<div class="container padding-0" id="main-container">
+    <div class="row">
+        <div class="col-xs-12">
+        	<a href="#" class="btn icon pull-left padding-20 size-18"><i class="modellyicon-arrow-left"></i></a>
+        </div>
+        <div class="col-xs-12 empty-list padding-40 padding-top-24">
+               <p class="margin-bottom-20"><i class="modellyicon-ribbon blue size-3x"></i></p>
+               <p class="margin-bottom-20">Account Settings</p>                           	
+        </div>
+        <div class="col-xs-12">
+        	<div class="menu-title">subscription</div>
+			<ul class="account-menu round">
+            	<li>
+                    <div class="slabel"><i class="modellyicon-plan black"></i></div>
+                    <div class="svalue">Macho Plan @ 49€ /mo <a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                </li>
+            </ul>
+            <p class="text-center font-book margin-top-20 dark">Your next payment is<br>49.00 € on August 30, 2014</p>
+			<p class="text-center margin-top-20"><a href="#" class="underline dark">Cancel Subscription</a></p>
+		</div>
+        <div class="col-xs-12">
+        <div class="menu-title">Billing details</div>
+			<ul class="account-menu round">
+            	<li>
+                    <div class="slabel"><i class="modellyicon-card black"></i></div>
+                    <div class="svalue">****  ****  **** 4532<a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                </li>
+            </ul>
+        </div>
+        <div class="col-xs-12 margin-top-10">
+        
+        	<div class="menu-title">Account</div>
+			<ul class="account-menu round">
+            	<li>
+                    <div class="slabel"><i class="modellyicon-phone black"></i></div>
+                    <div class="svalue">+1-877-296-1018<a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                </li>
+            	<li>
+                    <div class="slabel"><i class="modellyicon-mail black"></i></div>
+                    <div class="svalue">macho.macho@gmail.com<a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                </li>
+                <li>
+                    <div class="slabel"><i class="modellyicon-key black"></i></div>
+                    <div class="svalue">******** <a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                </li>
+            </ul>	
+		</div>
+	</div>
+</div>
+<div class="popup hidden">
+    <div class="container padding-0" id="main-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <a href="#" class="btn icon pull-right padding-20 size-18"><i class="modellyicon-close"></i></a>
+            </div>
+            <div class="col-xs-12 empty-list padding-40 padding-top-66">
+               <p class="margin-bottom-20"><i class="modellyicon-card blue size-3x"></i></p>
+               <p class="margin-bottom-20">Payment Failed!</p>
+               <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittis at tincidunt</p>                           	
+        	</div>
+            <div class="col-xs-12">
+        			<div class="menu-title">Billing details</div>
+                    <ul class="account-menu round">
+                        <li>
+                            <div class="slabel"><i class="modellyicon-card black"></i></div>
+                            <div class="svalue">****  ****  **** 4532<a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                        </li>
+                    </ul>
+        	</div>
+        </div>
+    </div>    
+</div> 
+<script src="js/jquery.js"></script>
+<script>			
+			$(".btn, .edit").on( "click", function() {
+				$(".popup").toggleClass('hidden');
+				$("#main-container").toggleClass('filter-blur');
+				
+			});					
+			
+ </script>  
+</body>
+</html>

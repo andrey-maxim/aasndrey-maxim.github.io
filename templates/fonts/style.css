@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'modelly';
+	src:url('fonts/modelly.eot?-2oj82h');
+	src:url('fonts/modelly.eot?#iefix-2oj82h') format('embedded-opentype'),
+		url('fonts/modelly.woff?-2oj82h') format('woff'),
+		url('fonts/modelly.ttf?-2oj82h') format('truetype'),
+		url('fonts/modelly.svg?-2oj82h#modelly') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'modelly';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camera:before {
+	content: "\e600";
+}
+.icon-close:before {
+	content: "\e601";
+}

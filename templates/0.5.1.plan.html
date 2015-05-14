@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Modelly App</title>
+
+  <meta name="description" content="">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="cleartype" content="on">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/modelly.css" rel="stylesheet">
+</head>
+<body class="home blur">
+<div class="container">
+    
+    <div class="row absolute full top">
+        <div class="col-xs-12 margin-top-32 text-center">
+            <p class="font-header">Choose your subscription plan</p>
+        </div>
+    </div>
+    
+    <div class="row absolute full top20">
+
+    	<div class="col-xs-12 padding-0 margin-bottom-66">
+
+<div class="swipe">
+                    <div class="item left">
+                        <h2 class="text-center">Monthly</h2>
+                        <ul class="list-no-bullet sub-plan">
+                            <li>
+                                <i class="modellyicon-wave"></i> Lorem ipsum dolor
+                            </li>
+                            <li>
+                                <i class="modellyicon-leaf"></i>Aliquam consectetur
+                            </li>
+                            <li>
+                                <i class="modellyicon-umbrella"></i>Mauris et tristique
+                            </li>
+                        </ul>
+                        <p class="price">
+                            8€
+                            <span>per month</span>
+                        </p>
+                        <p>
+                            <a class="btn btn-lg " href="#"> Choose This Plans </a>
+                        </p>
+                    </div>
+                    <div class="item current">
+                        <h2 class="text-center">Monthly</h2>
+                        <ul class="list-no-bullet sub-plan">
+                            <li>
+                                <i class="modellyicon-wave"></i>Aliquam consectetur
+                            </li>
+                            <li>
+                                <i class="modellyicon-leaf"></i>Mauris et tristique
+                            </li>
+                            <li>
+                                <i class="modellyicon-umbrella"></i>Mauris et tristique
+                            </li>
+                            <li>
+                                <p class="price">8€<span>per month</span></p>
+                            </li>
+                            <li>
+                            	<a class="btn btn-lg " href="#"> Choose This Plans </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="item right">
+                        <h2 class="text-center">Monthly</h2>
+                        <ul class="list-no-bullet sub-plan">
+                            <li>
+                                <i class="modellyicon-wave"></i>Mauris et tristique
+                            </li>
+                            <li>
+                                <i class="modellyicon-leaf"></i>Aliquam consectetur
+                            </li>
+                            <li>
+                                <i class="modellyicon-umbrella"></i>Mauris et tristique
+                            </li>
+                        </ul>
+                        <p class="price">
+                            8€
+                            <span>per month</span>
+                        </p>
+                        <p>
+                            <a class="btn btn-lg " href="#"> Choose This Plans </a>
+                        </p>
+                    </div>
+
+                </div>
+
+              <ul class="progress">
+                      <li></li>
+                      <li></li>
+                      <li class="active"></li>
+              </ul>
+        </div>
+
+		 <div class="row absolute full bottom">
+         	<div class="col-xs-12 text-left">
+          		<a href="0.3.3.home.html" class="blue padding-20">Close</a>
+          	</div>
+         </div>
+	
+	</div> 
+</div>
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.touchSwipe.js"></script>
+        <script>
+
+        $(".swipe").swipe( {
+            swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
+                var item = $(".swipe").find(".item.current");
+                if (direction === 'left' && item.next(".item").size() > 0) {
+                    item.removeClass("current").addClass("left");
+                    item.next().removeClass("right").addClass("current").next().removeClass("right-hide").addClass("right");
+                    item.prev().removeClass("left").addClass("left-hide")
+                }
+                if (direction === 'right' && item.prev(".item").size() > 0) {
+                    item.removeClass("current").addClass("right")
+                    item.prev().removeClass("left").addClass("current").prev().removeClass("left-hide").addClass("left");
+                    item.next().removeClass("right").addClass("right-hide")
+                }
+            },
+            threshold:30
+        });
+
+
+    </script>       
+</body>
+</html>

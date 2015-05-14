@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html ng-app="plunker">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Modelly App</title>
+
+  <meta name="description" content="">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="cleartype" content="on">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/modelly.css" rel="stylesheet">
+  <script src="js/angular.js"></script>
+  <script src="js/rzslider.min.js"></script>
+</head>
+<body class="white topnav " ng-controller="MainCtrl">
+<nav role="navigation" class="navbar navbar-fixed-top filter-blur">
+      <div class="navbar-brand">Your Gifts</div>
+      <div class="navbar-collapse">
+        <ul class="nav navbar-nav nav-pills pull-left">
+            <li><a href="#" id="menuu" class="btn icon"><i class="modellyicon-menu"></i></a></li>
+        </ul>
+        <ul class="nav navbar-nav nav-pills pull-right">
+          <li><a href="#" id="mfilters" class="btn"><i class="modellyicon-filter"></i></a></li>
+          <li><a href="#" id="msearch" class="btn"><i class="modellyicon-search"></i></a></li>
+        </ul>
+      </div>   
+</nav>
+<div class="container filter-blur" id="main-container">
+    <div class="row">
+    	<div class="col-xs-12">
+        	<div class="model-cards margin-top-36">
+                    <div class="model-card back-2">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                    <div class="model-card back-2">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                    <div class="model-card back-2">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                    <div class="model-card back-2">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                    <div class="model-card back-1">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                    <div class="model-card current">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                    <div class="model-card front" style="display: none;">
+                        <header class="top">
+                            <div class="pull-left">
+                                <i class="modellyicon-range blue"></i>12 km
+                            </div>
+                            <div class="pull-right">
+                                <i class="modellyicon-moments blue"></i>12 km
+                                <i class="modellyicon-moments blue"></i>2784
+                            </div>
+                        </header>
+                        <a href="#" class="btn-more"><i class="modellyicon-dots"></i></a>
+                        <img alt="" src="img/samples/photo-girl-640x640.jpg" class="photo">
+                    </div>
+                </div>
+        </div>
+        <div class="col-xs-12 text-center margin-top-26">
+            <a class="btn btn-lg btn-white btn-inline btn-discover margin-right-6" href="#">Follow <i class="modellyicon-checkbox circle blue"></i></a>
+            <a class="btn btn-lg btn-white btn-inline btn-discover margin-left-6" id="next" href="#">Next <i class="modellyicon-next circle red"></i></a>
+		</div>
+    </div>
+</div>
+
+
+
+<div class="popup">
+    <div class="container padding-0" id="main-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <a href="#" class="btn icon pull-right padding-20 size-18"><i class="modellyicon-close"></i></a>
+            </div>
+            <div class="col-xs-12 empty-list padding-40 padding-top-66">
+               <p class="margin-bottom-20"><i class="modellyicon-lock blue size-3x"></i></p>
+               <p class="margin-bottom-20">You Need to be Signed Up</p>
+               <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittis at tincidunt</p>                           	
+        	</div>
+            <div class="col-xs-12 padding-20">
+            
+              <div class="col-xs-12 margin-bottom-8">
+                <a class="btn btn-lg" href="0.3.1.home.html">I'm a User</a>                
+              </div>
+              <div class="col-xs-12 margin-bottom-8">
+                <a class="btn btn-lg" href="#">I'm a Model</a>
+              </div>
+              <div class="col-xs-12">
+                <p class="text-center padding-top-54 padding-bottom-54 font-book">Already have an account?  <a href="#"><b>Connect</b></a></p>
+              </div>
+            
+            </div>
+        </div>
+    </div>    
+</div>    
+        <script>
+			var app = angular.module('plunker', ['rzModule']);
+		
+			app.controller('MainCtrl', function($scope)
+			{
+				$scope.priceSlider = {
+					min: 18,
+					max: 35,
+					ceil: 50,
+					floor: 0
+				};
+		
+				$scope.priceSlider2 = 150;
+				$scope.priceSlider3 = 250;
+		
+			});
+		</script> 
+</body>
+</html>

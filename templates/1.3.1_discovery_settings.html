@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html ng-app="plunker">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Modelly App</title>
+
+  <meta name="description" content="">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="cleartype" content="on">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/modelly.css" rel="stylesheet">
+  <script src="js/angular.js"></script>
+  <script src="js/rzslider.min.js"></script>
+</head>
+<body class="white" ng-controller="MainCtrl">
+<div class="container padding-0" id="main-container">
+    <div class="row">
+    	<div class="col-xs-12">
+        	<a href="#" class="btn icon pull-left padding-20 size-18"><i class="modellyicon-arrow-left"></i></a>
+        </div>
+        <div class="col-xs-12 empty-list padding-40 padding-top-24">
+               <p class="margin-bottom-20"><i class="modellyicon-discover blue size-3x"></i></p>
+               <p class="margin-bottom-20">Discovery Settings</p>
+               <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittis at tincidunt</p>                           	
+        </div>
+        <div class="col-xs-12 padding-20">
+		<div id="dfilters" class="discovery-filters white">
+      	<div class="group-title">I’m searching</div>
+            <div class="btn-group margin-bottom-10" role="group" aria-label="...">
+              <button type="button" class="btn active"><i class="modellyicon-user-male"></i>Male</button>
+              <button type="button" class="btn"><i class="modellyicon-user-female"></i>Female</button>
+            </div> 
+             
+                <div class="col-xs-12 rzslider-container">
+                	<div class="group-title">Whithin</div>
+	                    <rzslider
+                            rz-slider-floor="0"
+                            rz-slider-ceil="450"
+                            rz-slider-model="priceSlider2"
+                            rz-slider-translate="translate">
+                    	</rzslider>
+                    <div class="rzslider-value">80 km</div>
+                </div>
+                <div class="col-xs-12 rzslider-container">
+                    <div class="group-title">age up to</div>
+                            <rzslider
+                                rz-slider-floor="priceSlider.floor"
+                                rz-slider-ceil="priceSlider.ceil"
+                                rz-slider-model="priceSlider.min"
+                                rz-slider-high="priceSlider.max"
+                                rz-slider-step="1">
+                            </rzslider>
+                        <div class="rzslider-value">18-35</div>
+                </div>
+        </div>
+		</div>
+	</div>
+</div>
+        <script>
+			var app = angular.module('plunker', ['rzModule']);
+		
+			app.controller('MainCtrl', function($scope)
+			{
+				$scope.priceSlider = {
+					min: 18,
+					max: 35,
+					ceil: 50,
+					floor: 0
+				};
+		
+				$scope.priceSlider2 = 150;
+				$scope.priceSlider3 = 250;
+		
+			});
+		</script>        
+</body>
+</html>

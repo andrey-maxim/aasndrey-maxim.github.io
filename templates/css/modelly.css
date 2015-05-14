@@ -1,0 +1,6910 @@
+/*variables*/
+/*margin*/
+/* line 15, ../sass/_positioning.scss */
+.margin-0 {
+  margin: 0px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-2 {
+  margin: 2px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-4 {
+  margin: 4px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-6 {
+  margin: 6px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-8 {
+  margin: 8px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-10 {
+  margin: 10px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-12 {
+  margin: 12px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-14 {
+  margin: 14px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-16 {
+  margin: 16px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-18 {
+  margin: 18px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-20 {
+  margin: 20px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-22 {
+  margin: 22px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-24 {
+  margin: 24px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-26 {
+  margin: 26px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-28 {
+  margin: 28px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-30 {
+  margin: 30px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-32 {
+  margin: 32px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-34 {
+  margin: 34px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-36 {
+  margin: 36px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-38 {
+  margin: 38px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-40 {
+  margin: 40px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-42 {
+  margin: 42px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-44 {
+  margin: 44px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-46 {
+  margin: 46px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-48 {
+  margin: 48px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-50 {
+  margin: 50px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-52 {
+  margin: 52px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-54 {
+  margin: 54px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-56 {
+  margin: 56px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-58 {
+  margin: 58px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-60 {
+  margin: 60px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-62 {
+  margin: 62px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-64 {
+  margin: 64px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-66 {
+  margin: 66px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-68 {
+  margin: 68px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-70 {
+  margin: 70px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-72 {
+  margin: 72px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-74 {
+  margin: 74px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-76 {
+  margin: 76px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-78 {
+  margin: 78px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-80 {
+  margin: 80px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-82 {
+  margin: 82px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-84 {
+  margin: 84px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-86 {
+  margin: 86px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-88 {
+  margin: 88px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-90 {
+  margin: 90px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-92 {
+  margin: 92px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-94 {
+  margin: 94px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-96 {
+  margin: 96px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-98 {
+  margin: 98px !important;
+}
+
+/* line 15, ../sass/_positioning.scss */
+.margin-100 {
+  margin: 100px !important;
+}
+
+/*margin-sides*/
+/* line 29, ../sass/_positioning.scss */
+.margin-top-0 {
+  margin-top: 0px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-0 {
+  margin-left: 0px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-0 {
+  margin-bottom: 0px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-0 {
+  margin-right: 0px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-2 {
+  margin-top: 2px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-2 {
+  margin-left: 2px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-2 {
+  margin-bottom: 2px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-2 {
+  margin-right: 2px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-4 {
+  margin-top: 4px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-4 {
+  margin-left: 4px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-4 {
+  margin-bottom: 4px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-4 {
+  margin-right: 4px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-6 {
+  margin-top: 6px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-6 {
+  margin-left: 6px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-6 {
+  margin-bottom: 6px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-6 {
+  margin-right: 6px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-8 {
+  margin-top: 8px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-8 {
+  margin-left: 8px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-8 {
+  margin-bottom: 8px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-8 {
+  margin-right: 8px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-10 {
+  margin-top: 10px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-10 {
+  margin-left: 10px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-10 {
+  margin-bottom: 10px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-10 {
+  margin-right: 10px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-12 {
+  margin-top: 12px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-12 {
+  margin-left: 12px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-12 {
+  margin-bottom: 12px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-12 {
+  margin-right: 12px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-14 {
+  margin-top: 14px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-14 {
+  margin-left: 14px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-14 {
+  margin-bottom: 14px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-14 {
+  margin-right: 14px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-16 {
+  margin-top: 16px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-16 {
+  margin-left: 16px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-16 {
+  margin-bottom: 16px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-16 {
+  margin-right: 16px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-18 {
+  margin-top: 18px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-18 {
+  margin-left: 18px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-18 {
+  margin-bottom: 18px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-18 {
+  margin-right: 18px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-20 {
+  margin-top: 20px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-20 {
+  margin-left: 20px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-20 {
+  margin-bottom: 20px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-20 {
+  margin-right: 20px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-22 {
+  margin-top: 22px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-22 {
+  margin-left: 22px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-22 {
+  margin-bottom: 22px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-22 {
+  margin-right: 22px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-24 {
+  margin-top: 24px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-24 {
+  margin-left: 24px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-24 {
+  margin-bottom: 24px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-24 {
+  margin-right: 24px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-26 {
+  margin-top: 26px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-26 {
+  margin-left: 26px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-26 {
+  margin-bottom: 26px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-26 {
+  margin-right: 26px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-28 {
+  margin-top: 28px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-28 {
+  margin-left: 28px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-28 {
+  margin-bottom: 28px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-28 {
+  margin-right: 28px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-30 {
+  margin-top: 30px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-30 {
+  margin-left: 30px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-30 {
+  margin-bottom: 30px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-30 {
+  margin-right: 30px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-32 {
+  margin-top: 32px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-32 {
+  margin-left: 32px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-32 {
+  margin-bottom: 32px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-32 {
+  margin-right: 32px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-34 {
+  margin-top: 34px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-34 {
+  margin-left: 34px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-34 {
+  margin-bottom: 34px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-34 {
+  margin-right: 34px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-36 {
+  margin-top: 36px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-36 {
+  margin-left: 36px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-36 {
+  margin-bottom: 36px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-36 {
+  margin-right: 36px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-38 {
+  margin-top: 38px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-38 {
+  margin-left: 38px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-38 {
+  margin-bottom: 38px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-38 {
+  margin-right: 38px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-40 {
+  margin-top: 40px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-40 {
+  margin-left: 40px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-40 {
+  margin-bottom: 40px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-40 {
+  margin-right: 40px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-42 {
+  margin-top: 42px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-42 {
+  margin-left: 42px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-42 {
+  margin-bottom: 42px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-42 {
+  margin-right: 42px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-44 {
+  margin-top: 44px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-44 {
+  margin-left: 44px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-44 {
+  margin-bottom: 44px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-44 {
+  margin-right: 44px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-46 {
+  margin-top: 46px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-46 {
+  margin-left: 46px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-46 {
+  margin-bottom: 46px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-46 {
+  margin-right: 46px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-48 {
+  margin-top: 48px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-48 {
+  margin-left: 48px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-48 {
+  margin-bottom: 48px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-48 {
+  margin-right: 48px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-50 {
+  margin-top: 50px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-50 {
+  margin-left: 50px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-50 {
+  margin-bottom: 50px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-50 {
+  margin-right: 50px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-52 {
+  margin-top: 52px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-52 {
+  margin-left: 52px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-52 {
+  margin-bottom: 52px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-52 {
+  margin-right: 52px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-54 {
+  margin-top: 54px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-54 {
+  margin-left: 54px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-54 {
+  margin-bottom: 54px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-54 {
+  margin-right: 54px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-56 {
+  margin-top: 56px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-56 {
+  margin-left: 56px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-56 {
+  margin-bottom: 56px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-56 {
+  margin-right: 56px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-58 {
+  margin-top: 58px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-58 {
+  margin-left: 58px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-58 {
+  margin-bottom: 58px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-58 {
+  margin-right: 58px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-60 {
+  margin-top: 60px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-60 {
+  margin-left: 60px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-60 {
+  margin-bottom: 60px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-60 {
+  margin-right: 60px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-62 {
+  margin-top: 62px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-62 {
+  margin-left: 62px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-62 {
+  margin-bottom: 62px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-62 {
+  margin-right: 62px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-64 {
+  margin-top: 64px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-64 {
+  margin-left: 64px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-64 {
+  margin-bottom: 64px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-64 {
+  margin-right: 64px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-66 {
+  margin-top: 66px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-66 {
+  margin-left: 66px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-66 {
+  margin-bottom: 66px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-66 {
+  margin-right: 66px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-68 {
+  margin-top: 68px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-68 {
+  margin-left: 68px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-68 {
+  margin-bottom: 68px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-68 {
+  margin-right: 68px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-70 {
+  margin-top: 70px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-70 {
+  margin-left: 70px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-70 {
+  margin-bottom: 70px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-70 {
+  margin-right: 70px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-72 {
+  margin-top: 72px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-72 {
+  margin-left: 72px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-72 {
+  margin-bottom: 72px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-72 {
+  margin-right: 72px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-74 {
+  margin-top: 74px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-74 {
+  margin-left: 74px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-74 {
+  margin-bottom: 74px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-74 {
+  margin-right: 74px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-76 {
+  margin-top: 76px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-76 {
+  margin-left: 76px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-76 {
+  margin-bottom: 76px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-76 {
+  margin-right: 76px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-78 {
+  margin-top: 78px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-78 {
+  margin-left: 78px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-78 {
+  margin-bottom: 78px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-78 {
+  margin-right: 78px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-80 {
+  margin-top: 80px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-80 {
+  margin-left: 80px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-80 {
+  margin-bottom: 80px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-80 {
+  margin-right: 80px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-82 {
+  margin-top: 82px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-82 {
+  margin-left: 82px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-82 {
+  margin-bottom: 82px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-82 {
+  margin-right: 82px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-84 {
+  margin-top: 84px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-84 {
+  margin-left: 84px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-84 {
+  margin-bottom: 84px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-84 {
+  margin-right: 84px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-86 {
+  margin-top: 86px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-86 {
+  margin-left: 86px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-86 {
+  margin-bottom: 86px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-86 {
+  margin-right: 86px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-88 {
+  margin-top: 88px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-88 {
+  margin-left: 88px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-88 {
+  margin-bottom: 88px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-88 {
+  margin-right: 88px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-90 {
+  margin-top: 90px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-90 {
+  margin-left: 90px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-90 {
+  margin-bottom: 90px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-90 {
+  margin-right: 90px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-92 {
+  margin-top: 92px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-92 {
+  margin-left: 92px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-92 {
+  margin-bottom: 92px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-92 {
+  margin-right: 92px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-94 {
+  margin-top: 94px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-94 {
+  margin-left: 94px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-94 {
+  margin-bottom: 94px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-94 {
+  margin-right: 94px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-96 {
+  margin-top: 96px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-96 {
+  margin-left: 96px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-96 {
+  margin-bottom: 96px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-96 {
+  margin-right: 96px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-98 {
+  margin-top: 98px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-98 {
+  margin-left: 98px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-98 {
+  margin-bottom: 98px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-98 {
+  margin-right: 98px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-top-100 {
+  margin-top: 100px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-left-100 {
+  margin-left: 100px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-bottom-100 {
+  margin-bottom: 100px !important;
+}
+
+/* line 29, ../sass/_positioning.scss */
+.margin-right-100 {
+  margin-right: 100px !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-0 {
+  margin-top: 0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-0 {
+  margin-left: 0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-0 {
+  margin-bottom: 0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-0 {
+  margin-right: 0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-5 {
+  margin-top: 5% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-5 {
+  margin-left: 5% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-5 {
+  margin-bottom: 5% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-5 {
+  margin-right: 5% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-10 {
+  margin-top: 10% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-10 {
+  margin-left: 10% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-10 {
+  margin-bottom: 10% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-10 {
+  margin-right: 10% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-15 {
+  margin-top: 15% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-15 {
+  margin-left: 15% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-15 {
+  margin-bottom: 15% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-15 {
+  margin-right: 15% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-20 {
+  margin-top: 20% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-20 {
+  margin-left: 20% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-20 {
+  margin-bottom: 20% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-20 {
+  margin-right: 20% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-25 {
+  margin-top: 25% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-25 {
+  margin-left: 25% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-25 {
+  margin-bottom: 25% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-25 {
+  margin-right: 25% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-30 {
+  margin-top: 30% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-30 {
+  margin-left: 30% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-30 {
+  margin-bottom: 30% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-30 {
+  margin-right: 30% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-35 {
+  margin-top: 35% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-35 {
+  margin-left: 35% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-35 {
+  margin-bottom: 35% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-35 {
+  margin-right: 35% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-40 {
+  margin-top: 40% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-40 {
+  margin-left: 40% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-40 {
+  margin-bottom: 40% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-40 {
+  margin-right: 40% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-45 {
+  margin-top: 45% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-45 {
+  margin-left: 45% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-45 {
+  margin-bottom: 45% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-45 {
+  margin-right: 45% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-50 {
+  margin-top: 50% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-50 {
+  margin-left: 50% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-50 {
+  margin-bottom: 50% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-50 {
+  margin-right: 50% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-55 {
+  margin-top: 55.0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-55 {
+  margin-left: 55.0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-55 {
+  margin-bottom: 55.0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-55 {
+  margin-right: 55.0% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-60 {
+  margin-top: 60% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-60 {
+  margin-left: 60% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-60 {
+  margin-bottom: 60% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-60 {
+  margin-right: 60% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-65 {
+  margin-top: 65% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-65 {
+  margin-left: 65% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-65 {
+  margin-bottom: 65% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-65 {
+  margin-right: 65% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-70 {
+  margin-top: 70% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-70 {
+  margin-left: 70% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-70 {
+  margin-bottom: 70% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-70 {
+  margin-right: 70% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-75 {
+  margin-top: 75% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-75 {
+  margin-left: 75% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-75 {
+  margin-bottom: 75% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-75 {
+  margin-right: 75% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-80 {
+  margin-top: 80% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-80 {
+  margin-left: 80% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-80 {
+  margin-bottom: 80% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-80 {
+  margin-right: 80% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-85 {
+  margin-top: 85% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-85 {
+  margin-left: 85% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-85 {
+  margin-bottom: 85% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-85 {
+  margin-right: 85% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-90 {
+  margin-top: 90% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-90 {
+  margin-left: 90% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-90 {
+  margin-bottom: 90% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-90 {
+  margin-right: 90% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-95 {
+  margin-top: 95% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-95 {
+  margin-left: 95% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-95 {
+  margin-bottom: 95% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-95 {
+  margin-right: 95% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-top-100 {
+  margin-top: 100% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-left-100 {
+  margin-left: 100% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-bottom-100 {
+  margin-bottom: 100% !important;
+}
+
+/* line 45, ../sass/_positioning.scss */
+.mg-right-100 {
+  margin-right: 100% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top0 {
+  top: 0% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top5 {
+  top: 5% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top10 {
+  top: 10% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top15 {
+  top: 15% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top20 {
+  top: 20% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top25 {
+  top: 25% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top30 {
+  top: 30% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top35 {
+  top: 35% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top40 {
+  top: 40% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top45 {
+  top: 45% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top50 {
+  top: 50% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top55 {
+  top: 55.0% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top60 {
+  top: 60% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top65 {
+  top: 65% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top70 {
+  top: 70% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top75 {
+  top: 75% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top80 {
+  top: 80% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top85 {
+  top: 85% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top90 {
+  top: 90% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top95 {
+  top: 95% !important;
+}
+
+/* line 52, ../sass/_positioning.scss */
+.top100 {
+  top: 100% !important;
+}
+
+/*padding*/
+/* line 62, ../sass/_positioning.scss */
+.padding-0 {
+  padding: 0px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-2 {
+  padding: 2px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-4 {
+  padding: 4px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-6 {
+  padding: 6px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-8 {
+  padding: 8px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-10 {
+  padding: 10px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-12 {
+  padding: 12px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-14 {
+  padding: 14px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-16 {
+  padding: 16px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-18 {
+  padding: 18px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-20 {
+  padding: 20px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-22 {
+  padding: 22px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-24 {
+  padding: 24px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-26 {
+  padding: 26px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-28 {
+  padding: 28px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-30 {
+  padding: 30px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-32 {
+  padding: 32px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-34 {
+  padding: 34px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-36 {
+  padding: 36px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-38 {
+  padding: 38px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-40 {
+  padding: 40px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-42 {
+  padding: 42px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-44 {
+  padding: 44px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-46 {
+  padding: 46px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-48 {
+  padding: 48px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-50 {
+  padding: 50px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-52 {
+  padding: 52px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-54 {
+  padding: 54px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-56 {
+  padding: 56px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-58 {
+  padding: 58px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-60 {
+  padding: 60px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-62 {
+  padding: 62px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-64 {
+  padding: 64px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-66 {
+  padding: 66px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-68 {
+  padding: 68px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-70 {
+  padding: 70px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-72 {
+  padding: 72px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-74 {
+  padding: 74px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-76 {
+  padding: 76px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-78 {
+  padding: 78px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-80 {
+  padding: 80px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-82 {
+  padding: 82px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-84 {
+  padding: 84px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-86 {
+  padding: 86px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-88 {
+  padding: 88px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-90 {
+  padding: 90px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-92 {
+  padding: 92px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-94 {
+  padding: 94px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-96 {
+  padding: 96px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-98 {
+  padding: 98px !important;
+}
+
+/* line 62, ../sass/_positioning.scss */
+.padding-100 {
+  padding: 100px !important;
+}
+
+/*padding-sides*/
+/* line 75, ../sass/_positioning.scss */
+.padding-top-0 {
+  padding-top: 0px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-0 {
+  padding-left: 0px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-0 {
+  padding-bottom: 0px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-0 {
+  padding-right: 0px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-2 {
+  padding-top: 2px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-2 {
+  padding-left: 2px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-2 {
+  padding-bottom: 2px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-2 {
+  padding-right: 2px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-4 {
+  padding-top: 4px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-4 {
+  padding-left: 4px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-4 {
+  padding-bottom: 4px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-4 {
+  padding-right: 4px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-6 {
+  padding-top: 6px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-6 {
+  padding-left: 6px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-6 {
+  padding-bottom: 6px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-6 {
+  padding-right: 6px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-8 {
+  padding-top: 8px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-8 {
+  padding-left: 8px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-8 {
+  padding-bottom: 8px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-8 {
+  padding-right: 8px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-10 {
+  padding-top: 10px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-10 {
+  padding-left: 10px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-10 {
+  padding-bottom: 10px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-10 {
+  padding-right: 10px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-12 {
+  padding-top: 12px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-12 {
+  padding-left: 12px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-12 {
+  padding-bottom: 12px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-12 {
+  padding-right: 12px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-14 {
+  padding-top: 14px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-14 {
+  padding-left: 14px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-14 {
+  padding-bottom: 14px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-14 {
+  padding-right: 14px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-16 {
+  padding-top: 16px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-16 {
+  padding-left: 16px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-16 {
+  padding-bottom: 16px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-16 {
+  padding-right: 16px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-18 {
+  padding-top: 18px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-18 {
+  padding-left: 18px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-18 {
+  padding-bottom: 18px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-18 {
+  padding-right: 18px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-20 {
+  padding-top: 20px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-20 {
+  padding-left: 20px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-20 {
+  padding-bottom: 20px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-20 {
+  padding-right: 20px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-22 {
+  padding-top: 22px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-22 {
+  padding-left: 22px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-22 {
+  padding-bottom: 22px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-22 {
+  padding-right: 22px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-24 {
+  padding-top: 24px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-24 {
+  padding-left: 24px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-24 {
+  padding-bottom: 24px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-24 {
+  padding-right: 24px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-26 {
+  padding-top: 26px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-26 {
+  padding-left: 26px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-26 {
+  padding-bottom: 26px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-26 {
+  padding-right: 26px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-28 {
+  padding-top: 28px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-28 {
+  padding-left: 28px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-28 {
+  padding-bottom: 28px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-28 {
+  padding-right: 28px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-30 {
+  padding-top: 30px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-30 {
+  padding-left: 30px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-30 {
+  padding-bottom: 30px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-30 {
+  padding-right: 30px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-32 {
+  padding-top: 32px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-32 {
+  padding-left: 32px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-32 {
+  padding-bottom: 32px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-32 {
+  padding-right: 32px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-34 {
+  padding-top: 34px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-34 {
+  padding-left: 34px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-34 {
+  padding-bottom: 34px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-34 {
+  padding-right: 34px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-36 {
+  padding-top: 36px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-36 {
+  padding-left: 36px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-36 {
+  padding-bottom: 36px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-36 {
+  padding-right: 36px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-38 {
+  padding-top: 38px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-38 {
+  padding-left: 38px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-38 {
+  padding-bottom: 38px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-38 {
+  padding-right: 38px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-40 {
+  padding-top: 40px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-40 {
+  padding-left: 40px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-40 {
+  padding-bottom: 40px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-40 {
+  padding-right: 40px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-42 {
+  padding-top: 42px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-42 {
+  padding-left: 42px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-42 {
+  padding-bottom: 42px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-42 {
+  padding-right: 42px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-44 {
+  padding-top: 44px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-44 {
+  padding-left: 44px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-44 {
+  padding-bottom: 44px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-44 {
+  padding-right: 44px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-46 {
+  padding-top: 46px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-46 {
+  padding-left: 46px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-46 {
+  padding-bottom: 46px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-46 {
+  padding-right: 46px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-48 {
+  padding-top: 48px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-48 {
+  padding-left: 48px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-48 {
+  padding-bottom: 48px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-48 {
+  padding-right: 48px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-50 {
+  padding-top: 50px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-50 {
+  padding-left: 50px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-50 {
+  padding-bottom: 50px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-50 {
+  padding-right: 50px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-52 {
+  padding-top: 52px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-52 {
+  padding-left: 52px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-52 {
+  padding-bottom: 52px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-52 {
+  padding-right: 52px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-54 {
+  padding-top: 54px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-54 {
+  padding-left: 54px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-54 {
+  padding-bottom: 54px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-54 {
+  padding-right: 54px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-56 {
+  padding-top: 56px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-56 {
+  padding-left: 56px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-56 {
+  padding-bottom: 56px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-56 {
+  padding-right: 56px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-58 {
+  padding-top: 58px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-58 {
+  padding-left: 58px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-58 {
+  padding-bottom: 58px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-58 {
+  padding-right: 58px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-60 {
+  padding-top: 60px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-60 {
+  padding-left: 60px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-60 {
+  padding-bottom: 60px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-60 {
+  padding-right: 60px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-62 {
+  padding-top: 62px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-62 {
+  padding-left: 62px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-62 {
+  padding-bottom: 62px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-62 {
+  padding-right: 62px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-64 {
+  padding-top: 64px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-64 {
+  padding-left: 64px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-64 {
+  padding-bottom: 64px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-64 {
+  padding-right: 64px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-66 {
+  padding-top: 66px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-66 {
+  padding-left: 66px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-66 {
+  padding-bottom: 66px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-66 {
+  padding-right: 66px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-68 {
+  padding-top: 68px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-68 {
+  padding-left: 68px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-68 {
+  padding-bottom: 68px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-68 {
+  padding-right: 68px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-70 {
+  padding-top: 70px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-70 {
+  padding-left: 70px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-70 {
+  padding-bottom: 70px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-70 {
+  padding-right: 70px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-72 {
+  padding-top: 72px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-72 {
+  padding-left: 72px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-72 {
+  padding-bottom: 72px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-72 {
+  padding-right: 72px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-74 {
+  padding-top: 74px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-74 {
+  padding-left: 74px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-74 {
+  padding-bottom: 74px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-74 {
+  padding-right: 74px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-76 {
+  padding-top: 76px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-76 {
+  padding-left: 76px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-76 {
+  padding-bottom: 76px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-76 {
+  padding-right: 76px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-78 {
+  padding-top: 78px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-78 {
+  padding-left: 78px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-78 {
+  padding-bottom: 78px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-78 {
+  padding-right: 78px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-80 {
+  padding-top: 80px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-80 {
+  padding-left: 80px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-80 {
+  padding-bottom: 80px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-80 {
+  padding-right: 80px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-82 {
+  padding-top: 82px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-82 {
+  padding-left: 82px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-82 {
+  padding-bottom: 82px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-82 {
+  padding-right: 82px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-84 {
+  padding-top: 84px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-84 {
+  padding-left: 84px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-84 {
+  padding-bottom: 84px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-84 {
+  padding-right: 84px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-86 {
+  padding-top: 86px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-86 {
+  padding-left: 86px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-86 {
+  padding-bottom: 86px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-86 {
+  padding-right: 86px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-88 {
+  padding-top: 88px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-88 {
+  padding-left: 88px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-88 {
+  padding-bottom: 88px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-88 {
+  padding-right: 88px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-90 {
+  padding-top: 90px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-90 {
+  padding-left: 90px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-90 {
+  padding-bottom: 90px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-90 {
+  padding-right: 90px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-92 {
+  padding-top: 92px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-92 {
+  padding-left: 92px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-92 {
+  padding-bottom: 92px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-92 {
+  padding-right: 92px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-94 {
+  padding-top: 94px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-94 {
+  padding-left: 94px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-94 {
+  padding-bottom: 94px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-94 {
+  padding-right: 94px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-96 {
+  padding-top: 96px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-96 {
+  padding-left: 96px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-96 {
+  padding-bottom: 96px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-96 {
+  padding-right: 96px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-98 {
+  padding-top: 98px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-98 {
+  padding-left: 98px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-98 {
+  padding-bottom: 98px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-98 {
+  padding-right: 98px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-top-100 {
+  padding-top: 100px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-left-100 {
+  padding-left: 100px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-bottom-100 {
+  padding-bottom: 100px !important;
+}
+
+/* line 75, ../sass/_positioning.scss */
+.padding-right-100 {
+  padding-right: 100px !important;
+}
+
+@font-face {
+  font-family: 'CoreDec';
+  src: url("../fonts/CoreDeco_latin+latin-ext_gdi.eot");
+  src: url("../fonts/CoreDeco_latin+latin-ext_gdi.eot?#iefix") format("embedded-opentype"), url("../fonts/CoreDeco_latin+latin-ext_gdi.woff") format("woff"), url("../fonts/CoreDeco_latin+latin-ext_gdi.ttf") format("truetype"), url("../fonts/CoreDeco_latin+latin-ext_gdi.svg#CoreDeco-Regular") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0008-2215;
+}
+
+@font-face {
+  font-family: 'FuturaPT-Medium';
+  src: url("../fonts/FuturaPT-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-Medium.otf") format("opentype"), url("../fonts/FuturaPT-Medium.woff") format("woff"), url("../fonts/FuturaPT-Medium.ttf") format("truetype"), url("../fonts/FuturaPT-Medium.svg#FuturaPT-Medium") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPT-MediumObl';
+  src: url("../fonts/FuturaPT-MediumObl.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-MediumObl.otf") format("opentype"), url("../fonts/FuturaPT-MediumObl.woff") format("woff"), url("../fonts/FuturaPT-MediumObl.ttf") format("truetype"), url("../fonts/FuturaPT-MediumObl.svg#FuturaPT-MediumObl") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPTBook';
+  src: url("../fonts/futuraptbook.eot");
+  src: url("../fonts/futuraptbook.eot") format("embedded-opentype"), url("../fonts/futuraptbook.woff2") format("woff2"), url("../fonts/futuraptbook.woff") format("woff"), url("../fonts/futuraptbook.ttf") format("truetype"), url("../fonts/futuraptbook.svg#FuturaPTBook") format("svg");
+}
+
+@font-face {
+  font-family: 'FuturaPTBookItalicRegular';
+  src: url("../fonts/futuraptbookoblique.eot");
+  src: url("../fonts/futuraptbookoblique.eot") format("embedded-opentype"), url("../fonts/futuraptbookoblique.woff2") format("woff2"), url("../fonts/futuraptbookoblique.woff") format("woff"), url("../fonts/futuraptbookoblique.ttf") format("truetype"), url("../fonts/futuraptbookoblique.svg#FuturaPTBookItalicRegular") format("svg");
+}
+
+@font-face {
+  font-family: 'FuturaPT-Demi';
+  src: url("../fonts/FuturaPT-Demi.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-Demi.otf") format("opentype"), url("../fonts/FuturaPT-Demi.woff") format("woff"), url("../fonts/FuturaPT-Demi.ttf") format("truetype"), url("../fonts/FuturaPT-Demi.svg#FuturaPT-Demi") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPT-DemiObl';
+  src: url("../fonts/FuturaPT-DemiObl.eot?#iefix") format("embedded-opentype"), url("../fonts/FuturaPT-DemiObl.otf") format("opentype"), url("../fonts/FuturaPT-DemiObl.woff") format("woff"), url("../fonts/FuturaPT-DemiObl.ttf") format("truetype"), url("../fonts/FuturaPT-DemiObl.svg#FuturaPT-DemiObl") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'modelly';
+  src: url("../fonts/modelly.eot?-2oj82h");
+  src: url("../fonts/modelly.eot?#iefix-2oj82h") format("embedded-opentype"), url("../fonts/modelly.woff?-2oj82h") format("woff"), url("../fonts/modelly.ttf?-2oj82h") format("truetype"), url("../fonts/modelly.svg?-2oj82h#modelly") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* line 130, ../sass/modelly.scss */
+[class^="modellyicon-"], [class*=" modellyicon-"] {
+  font-family: 'modelly';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* line 142, ../sass/modelly.scss */
+[class^="modellyicon-"].blue {
+  color: #00e4ff;
+}
+/* line 145, ../sass/modelly.scss */
+[class^="modellyicon-"].red {
+  color: #de485e;
+}
+/* line 148, ../sass/modelly.scss */
+[class^="modellyicon-"].black {
+  color: #3b4448;
+}
+/* line 151, ../sass/modelly.scss */
+[class^="modellyicon-"].icon-bg-white {
+  background: none repeat scroll 0 0 #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  width: 36px;
+}
+/* line 159, ../sass/modelly.scss */
+[class^="modellyicon-"].pull-left {
+  margin-right: 10px;
+}
+/* line 162, ../sass/modelly.scss */
+[class^="modellyicon-"].pull-right {
+  margin-left: 10px;
+}
+/* line 165, ../sass/modelly.scss */
+[class^="modellyicon-"].size-18 {
+  font-size: 18px;
+}
+/* line 166, ../sass/modelly.scss */
+[class^="modellyicon-"].size-2x {
+  font-size: 32px;
+}
+/* line 167, ../sass/modelly.scss */
+[class^="modellyicon-"].size-3x {
+  font-size: 48px;
+}
+/* line 169, ../sass/modelly.scss */
+[class^="modellyicon-"].circle {
+  width: 36px;
+  height: 36px;
+  text-align: center;
+  line-height: 36px;
+  font-size: 16px;
+  padding: 7px;
+  margin-left: 10px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+/* line 179, ../sass/modelly.scss */
+[class^="modellyicon-"].circle.red {
+  border: solid 2px #de485e;
+}
+/* line 182, ../sass/modelly.scss */
+[class^="modellyicon-"].circle.blue {
+  border: solid 2px #00e4ff;
+}
+
+/* line 189, ../sass/modelly.scss */
+.modellyicon-email:before {
+  font-family: "FuturaPT-Medium";
+  content: "@";
+  color: #FFF;
+}
+
+/* line 194, ../sass/modelly.scss */
+.modellyicon-account:before {
+  content: "\e600";
+}
+
+/* line 197, ../sass/modelly.scss */
+.modellyicon-arrow-left:before {
+  content: "\e601";
+}
+
+/* line 200, ../sass/modelly.scss */
+.modellyicon-arrow-right:before {
+  content: "\e602";
+}
+
+/* line 203, ../sass/modelly.scss */
+.modellyicon-bell:before {
+  content: "\e603";
+}
+
+/* line 206, ../sass/modelly.scss */
+.modellyicon-book:before {
+  content: "\e604";
+}
+
+/* line 209, ../sass/modelly.scss */
+.modellyicon-camera:before {
+  content: "\e605";
+}
+
+/* line 212, ../sass/modelly.scss */
+.modellyicon-card:before {
+  content: "\e606";
+}
+
+/* line 215, ../sass/modelly.scss */
+.modellyicon-checkbox:before {
+  content: "\e607";
+}
+
+/* line 218, ../sass/modelly.scss */
+.modellyicon-close:before {
+  content: "\e608";
+}
+
+/* line 221, ../sass/modelly.scss */
+.modellyicon-discover:before {
+  content: "\e609";
+}
+
+/* line 224, ../sass/modelly.scss */
+.modellyicon-dots:before {
+  content: "\e60a";
+}
+
+/* line 227, ../sass/modelly.scss */
+.modellyicon-edit:before {
+  content: "\e60b";
+}
+
+/* line 230, ../sass/modelly.scss */
+.modellyicon-feed:before {
+  content: "\e60c";
+}
+
+/* line 233, ../sass/modelly.scss */
+.modellyicon-filter:before {
+  content: "\e60d";
+}
+
+/* line 236, ../sass/modelly.scss */
+.modellyicon-gift:before {
+  content: "\e60e";
+}
+
+/* line 239, ../sass/modelly.scss */
+.modellyicon-hearth:before {
+  content: "\e60f";
+}
+
+/* line 242, ../sass/modelly.scss */
+.modellyicon-hearth-full:before {
+  content: "\e610";
+}
+
+/* line 245, ../sass/modelly.scss */
+.modellyicon-key:before {
+  content: "\e611";
+}
+
+/* line 248, ../sass/modelly.scss */
+.modellyicon-leaf:before {
+  content: "\e612";
+}
+
+/* line 251, ../sass/modelly.scss */
+.modellyicon-lock:before {
+  content: "\e613";
+}
+
+/* line 254, ../sass/modelly.scss */
+.modellyicon-logout:before {
+  content: "\e614";
+}
+
+/* line 257, ../sass/modelly.scss */
+.modellyicon-mail:before {
+  content: "\e615";
+}
+
+/* line 260, ../sass/modelly.scss */
+.modellyicon-menu:before {
+  content: "\e616";
+}
+
+/* line 263, ../sass/modelly.scss */
+.modellyicon-moments:before {
+  content: "\e617";
+}
+
+/* line 266, ../sass/modelly.scss */
+.modellyicon-next:before {
+  content: "\e618";
+}
+
+/* line 269, ../sass/modelly.scss */
+.modellyicon-phone:before {
+  content: "\e619";
+}
+
+/* line 272, ../sass/modelly.scss */
+.modellyicon-plan:before {
+  content: "\e61a";
+}
+
+/* line 275, ../sass/modelly.scss */
+.modellyicon-plus:before {
+  content: "\e61b";
+}
+
+/* line 278, ../sass/modelly.scss */
+.modellyicon-pointer:before {
+  content: "\e61c";
+}
+
+/* line 281, ../sass/modelly.scss */
+.modellyicon-prev:before {
+  content: "\e61d";
+}
+
+/* line 284, ../sass/modelly.scss */
+.modellyicon-profile:before {
+  content: "\e61e";
+}
+
+/* line 287, ../sass/modelly.scss */
+.modellyicon-range:before {
+  content: "\e61f";
+}
+
+/* line 290, ../sass/modelly.scss */
+.modellyicon-ribbon:before {
+  content: "\e620";
+}
+
+/* line 293, ../sass/modelly.scss */
+.modellyicon-search:before {
+  content: "\e621";
+}
+
+/* line 296, ../sass/modelly.scss */
+.modellyicon-settings:before {
+  content: "\e622";
+}
+
+/* line 299, ../sass/modelly.scss */
+.modellyicon-strawberry:before {
+  content: "\e623";
+}
+
+/* line 302, ../sass/modelly.scss */
+.modellyicon-thank:before {
+  content: "\e624";
+}
+
+/* line 305, ../sass/modelly.scss */
+.modellyicon-umbrella:before {
+  content: "\e625";
+}
+
+/* line 308, ../sass/modelly.scss */
+.modellyicon-user-female:before {
+  content: "\e626";
+}
+
+/* line 311, ../sass/modelly.scss */
+.modellyicon-user-male:before {
+  content: "\e627";
+}
+
+/* line 314, ../sass/modelly.scss */
+.modellyicon-users:before {
+  content: "\e628";
+}
+
+/* line 317, ../sass/modelly.scss */
+.modellyicon-wave:before {
+  content: "\e629";
+}
+
+/* line 321, ../sass/modelly.scss */
+.logo {
+  font-size: 60px;
+  font-weight: normal;
+  line-height: 60px;
+  text-align: center;
+  color: #FFF;
+  font-family: 'CoreDec';
+  text-transform: uppercase;
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+  color: #00e4ff;
+}
+/* line 334, ../sass/modelly.scss */
+.logo.full {
+  width: 100%;
+}
+
+/* line 338, ../sass/modelly.scss */
+h2.logo {
+  font-size: 48px;
+}
+
+/* BASE */
+/* line 343, ../sass/modelly.scss */
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* line 349, ../sass/modelly.scss */
+body {
+  height: 100%;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+/* line 354, ../sass/modelly.scss */
+body.home {
+  background: url(../img/main.jpg) no-repeat center center;
+  background-size: cover;
+}
+/* line 358, ../sass/modelly.scss */
+body.home.blur, .bg-blur body.home.image-bg-helper:before {
+  background-image: url(../img/main-blur.jpg);
+}
+/* line 362, ../sass/modelly.scss */
+body.white {
+  background-image: none;
+  background-color: #f0f2f2;
+}
+/* line 366, ../sass/modelly.scss */
+body.grey {
+  background-image: none;
+  background-color: #e1e5e6;
+  padding-top: 44px;
+}
+/* line 371, ../sass/modelly.scss */
+body.topnav {
+  padding-top: 44px;
+}
+
+/* line 375, ../sass/modelly.scss */
+a {
+  text-decoration: none !important;
+  color: #FFF;
+}
+/* line 378, ../sass/modelly.scss */
+a:hover {
+  text-decoration: none;
+  color: #FFF;
+}
+/* line 382, ../sass/modelly.scss */
+a:active {
+  color: #11abbe;
+}
+/* line 385, ../sass/modelly.scss */
+a:focus {
+  outline: none;
+}
+
+/* line 390, ../sass/modelly.scss */
+.bg-white {
+  background-color: #FFF;
+}
+
+/* line 393, ../sass/modelly.scss */
+.dark {
+  color: #3b4448;
+}
+/* line 396, ../sass/modelly.scss */
+.dark:hover {
+  color: #3b4448;
+}
+
+/* line 400, ../sass/modelly.scss */
+.underline {
+  border-bottom: solid 1px #7a8389;
+}
+
+/* line 404, ../sass/modelly.scss */
+h1, h2 {
+  font-family: "FuturaPT-Demi", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+/* line 409, ../sass/modelly.scss */
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin: 32px 0;
+}
+
+/* line 415, ../sass/modelly.scss */
+h2 {
+  font-size: 24px;
+  margin: 20px 0 18px;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+/* line 422, ../sass/modelly.scss */
+h3 {
+  margin: 20px 0 18px;
+  font-size: 18px;
+  font-family: "FuturaPT-Demi", Arial, sans-serif;
+}
+
+/* line 427, ../sass/modelly.scss */
+.font-header {
+  font-size: 17px;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+}
+/* line 431, ../sass/modelly.scss */
+.font-header b {
+  font-family: "FuturaPT-Demi", Arial, Helvetica, sans-serif;
+}
+
+/* line 436, ../sass/modelly.scss */
+.navbar {
+  background-color: rgba(255, 255, 255, 0.7);
+  -webkit-box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  -moz-box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  height: 44px !important;
+  min-height: 44px !important;
+}
+/* line 444, ../sass/modelly.scss */
+.navbar.transparent {
+  background-color: transparent;
+  box-shadow: none;
+  margin-bottom: 0;
+}
+/* line 450, ../sass/modelly.scss */
+.navbar .navbar-collapse {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+/* line 454, ../sass/modelly.scss */
+.navbar .navbar-nav {
+  margin: 6px 10px 0 0px !important;
+}
+/* line 457, ../sass/modelly.scss */
+.navbar .navbar-nav.pull-right {
+  margin: 6px 0px 0 10px !important;
+}
+/* line 462, ../sass/modelly.scss */
+.navbar .navbar-brand {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  text-align: center;
+  margin: auto;
+  padding: 0;
+  line-height: 44px;
+  height: 44px !important;
+  color: #3b4448;
+}
+/* line 474, ../sass/modelly.scss */
+.navbar .btn {
+  padding: 8px 8px 8px 5px;
+  background-color: transparent;
+  color: #00c6dd;
+  z-index: 2;
+  font-size: 16px;
+}
+/* line 480, ../sass/modelly.scss */
+.navbar .btn:hover {
+  background-color: rgba(204, 204, 204, 0.01);
+}
+/* line 484, ../sass/modelly.scss */
+.navbar .btn.has-messages {
+  position: relative;
+}
+/* line 487, ../sass/modelly.scss */
+.navbar .btn.has-messages:after {
+  content: " ";
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  display: block;
+  background: #00c6dd;
+  position: absolute;
+  top: 6px;
+  right: 5px;
+}
+
+/* line 506, ../sass/modelly.scss */
+.container {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  float: left;
+}
+/* line 516, ../sass/modelly.scss */
+.container.padding-0 {
+  padding: 0 !important;
+}
+/* line 519, ../sass/modelly.scss */
+.container.padding-0 .row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+/* line 523, ../sass/modelly.scss */
+.container.padding-0 .row .col-xs-1, .container.padding-0 .row .col-sm-1, .container.padding-0 .row .col-md-1, .container.padding-0 .row .col-lg-1, .container.padding-0 .row .col-xs-2, .container.padding-0 .row .col-sm-2, .container.padding-0 .row .col-md-2, .container.padding-0 .row .col-lg-2, .container.padding-0 .row .col-xs-3, .container.padding-0 .row .col-sm-3, .container.padding-0 .row .col-md-3, .container.padding-0 .row .col-lg-3, .container.padding-0 .row .col-xs-4, .container.padding-0 .row .col-sm-4, .container.padding-0 .row .col-md-4, .container.padding-0 .row .col-lg-4, .container.padding-0 .row .col-xs-5, .container.padding-0 .row .col-sm-5, .container.padding-0 .row .col-md-5, .container.padding-0 .row .col-lg-5, .container.padding-0 .row .col-xs-6, .container.padding-0 .row .col-sm-6, .container.padding-0 .row .col-md-6, .container.padding-0 .row .col-lg-6, .container.padding-0 .row .col-xs-7, .container.padding-0 .row .col-sm-7, .container.padding-0 .row .col-md-7, .container.padding-0 .row .col-lg-7, .container.padding-0 .row .col-xs-8, .container.padding-0 .row .col-sm-8, .container.padding-0 .row .col-md-8, .container.padding-0 .row .col-lg-8, .container.padding-0 .row .col-xs-9, .container.padding-0 .row .col-sm-9, .container.padding-0 .row .col-md-9, .container.padding-0 .row .col-lg-9, .container.padding-0 .row .col-xs-10, .container.padding-0 .row .col-sm-10, .container.padding-0 .row .col-md-10, .container.padding-0 .row .col-lg-10, .container.padding-0 .row .col-xs-11, .container.padding-0 .row .col-sm-11, .container.padding-0 .row .col-md-11, .container.padding-0 .row .col-lg-11, .container.padding-0 .row .col-xs-12, .container.padding-0 .row .col-sm-12, .container.padding-0 .row .col-md-12, .container.padding-0 .row .col-lg-12 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* line 531, ../sass/modelly.scss */
+.wrapper {
+  padding: 0 20px;
+  position: relative;
+}
+
+/* line 536, ../sass/modelly.scss */
+.image-bg {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+/* line 545, ../sass/modelly.scss */
+.image-bg .image-bg-helper {
+  content: " ";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+/* line 553, ../sass/modelly.scss */
+.image-bg .image-bg-helper:before {
+  content: " ";
+  position: absolute;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* line 569, ../sass/modelly.scss */
+.panel {
+  position: absolute;
+  width: 100%;
+}
+
+/* line 574, ../sass/modelly.scss */
+.font-book {
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+}
+/* line 577, ../sass/modelly.scss */
+.font-book b {
+  font-family: "FuturaPT-Demi", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+/* line 585, ../sass/modelly.scss */
+.user-avatar {
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  margin: 0 auto;
+  position: relative;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  display: block;
+  margin: auto auto;
+  background-image: url("../img/svg/camera-white.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 24px 24px;
+  cursor: pointer;
+}
+/* line 602, ../sass/modelly.scss */
+.user-avatar img {
+  width: 100%;
+  height: 100%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+/* line 608, ../sass/modelly.scss */
+.user-avatar.size-small {
+  width: 36px;
+  height: 36px;
+}
+/* line 613, ../sass/modelly.scss */
+.user-avatar .remove {
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  background-color: rgba(18, 22, 25, 0.7);
+  background-image: url("../img/svg/close.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 8px 8px;
+  position: absolute;
+  top: -3px;
+  right: -3px;
+  text-align: center;
+  font-size: 11px !important;
+  line-height: 23px;
+  padding-left: 1px;
+  color: #00e4ff;
+}
+/* line 633, ../sass/modelly.scss */
+.user-avatar.upload {
+  background-image: url("../img/svg/camera.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 24px 23px;
+}
+/* line 640, ../sass/modelly.scss */
+.user-avatar.upload img {
+  display: none;
+}
+/* line 644, ../sass/modelly.scss */
+.user-avatar.upload input {
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* line 656, ../sass/modelly.scss */
+.header {
+  background-color: rgba(255, 255, 255, 0.7);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  display: table;
+  position: relative;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+/* line 667, ../sass/modelly.scss */
+.header.header-float {
+  position: fixed;
+}
+/* line 671, ../sass/modelly.scss */
+.header .left-side {
+  float: left;
+  position: absolute;
+  top: 50%;
+  margin-top: -10px;
+  left: 15px;
+}
+/* line 679, ../sass/modelly.scss */
+.header .right-side {
+  float: right;
+  position: absolute;
+  top: 50%;
+  margin-top: -10px;
+  right: 15px;
+}
+/* line 687, ../sass/modelly.scss */
+.header .header-title {
+  color: #3b4448;
+  font-size: 18px;
+  margin: 15px 0;
+  text-align: center;
+  padding: 0 45px;
+}
+/* line 695, ../sass/modelly.scss */
+.header .header-submenu {
+  padding: 18px 0;
+  margin: 0;
+}
+/* line 27, ../sass/modelly.scss */
+.header .header-submenu:before, .header .header-submenu:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.header .header-submenu:after {
+  clear: both;
+}
+/* line 700, ../sass/modelly.scss */
+.header .header-submenu li {
+  list-style: none;
+  float: left;
+  width: 33%;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+/* line 708, ../sass/modelly.scss */
+.header .header-submenu li:before {
+  content: " ";
+  position: absolute;
+  width: 1px;
+  background-color: rgba(255, 255, 255, 0.15);
+  right: 0;
+  top: 5px;
+  bottom: 5px;
+  overflow: hidden;
+}
+/* line 719, ../sass/modelly.scss */
+.header .header-submenu li:last-child:before {
+  display: none;
+}
+/* line 723, ../sass/modelly.scss */
+.header .header-submenu li .icon {
+  font-size: 35px;
+  margin-bottom: 5px;
+}
+
+/* line 733, ../sass/modelly.scss */
+.header-panel {
+  overflow-y: auto;
+  background-color: rgba(84, 96, 105, 0.7);
+  -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  width: 100%;
+  height: 10000%;
+  /*fullscreen*/
+  top: 100%;
+  left: 0;
+  color: white;
+  z-index: 100;
+}
+/* line 747, ../sass/modelly.scss */
+.header-panel:before {
+  content: " ";
+  border-bottom: 5px solid #abb0b5;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  position: absolute;
+  top: -5px;
+  left: 22px;
+}
+/* line 757, ../sass/modelly.scss */
+.header-panel.small {
+  height: 80px;
+}
+/* line 760, ../sass/modelly.scss */
+.header-panel.discovery-filters {
+  height: auto;
+  padding: 20px 20px 50px 20px;
+}
+/* line 764, ../sass/modelly.scss */
+.header-panel.discovery-filters:before {
+  right: 60px;
+  left: auto;
+}
+/* line 770, ../sass/modelly.scss */
+.header-panel ul.inline-menu {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+/* line 777, ../sass/modelly.scss */
+.header-panel ul.inline-menu li {
+  display: block;
+  float: left;
+  -webkit-box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.15);
+  -moz-box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.15);
+  box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.15);
+  height: 40px;
+  margin: 20px 0 20px 0;
+}
+/* line 786, ../sass/modelly.scss */
+.header-panel ul.inline-menu li:last-child {
+  box-shadow: none;
+}
+/* line 790, ../sass/modelly.scss */
+.header-panel ul.inline-menu li a {
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+/* line 795, ../sass/modelly.scss */
+.header-panel ul.inline-menu li a i {
+  width: 100%;
+  display: block;
+  font-size: 25px;
+  position: relative;
+  top: -4px;
+}
+/* line 803, ../sass/modelly.scss */
+.header-panel ul.inline-menu li a:visited, .header-panel ul.inline-menu li a:active {
+  color: #FFF;
+}
+/* line 809, ../sass/modelly.scss */
+.header-panel ul.inline-menu.items-2 li {
+  width: 50%;
+}
+/* line 810, ../sass/modelly.scss */
+.header-panel ul.inline-menu.items-3 li {
+  width: 33%;
+}
+/* line 811, ../sass/modelly.scss */
+.header-panel ul.inline-menu.items-4 li {
+  width: 25%;
+}
+/* line 814, ../sass/modelly.scss */
+.header-panel .settings-label {
+  color: white;
+}
+/* line 818, ../sass/modelly.scss */
+.header-panel .list-items {
+  text-align: left;
+}
+/* line 820, ../sass/modelly.scss */
+.header-panel .list-items .item-info {
+  color: white;
+}
+/* line 823, ../sass/modelly.scss */
+.header-panel .list-items .item-name {
+  color: white;
+}
+
+/* line 830, ../sass/modelly.scss */
+.footer {
+  background-color: rgba(84, 96, 105, 0.7);
+  padding: 12px 0;
+  color: white;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 34px;
+}
+/* line 27, ../sass/modelly.scss */
+.footer:before, .footer:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.footer:after {
+  clear: both;
+}
+/* line 839, ../sass/modelly.scss */
+.footer .left-side {
+  float: left;
+}
+/* line 842, ../sass/modelly.scss */
+.footer .left-side .user-pick {
+  float: left;
+  margin-right: 5px;
+  width: 40px;
+  height: 40px;
+}
+/* line 849, ../sass/modelly.scss */
+.footer .left-side .icon-glass {
+  float: left;
+  margin-right: 5px;
+}
+/* line 857, ../sass/modelly.scss */
+.footer .right-side {
+  float: right;
+}
+
+/* line 863, ../sass/modelly.scss */
+.left-padding {
+  padding-left: 20px;
+}
+
+/* line 867, ../sass/modelly.scss */
+.right-padding {
+  padding-left: 20px;
+}
+
+/* line 871, ../sass/modelly.scss */
+.persons {
+  font-size: 16px;
+}
+/* line 874, ../sass/modelly.scss */
+.persons .left-side {
+  margin-right: 5px;
+  line-height: 40px;
+}
+
+/* line 881, ../sass/modelly.scss */
+.h-padding-big {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* line 886, ../sass/modelly.scss */
+.h-padding-small {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* line 892, ../sass/modelly.scss */
+.margin-b-30 {
+  margin-bottom: 30px;
+}
+
+/* line 896, ../sass/modelly.scss */
+.image-circle {
+  border-radius: 50%;
+}
+
+/* line 899, ../sass/modelly.scss */
+.list-no-bullet {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+  margin: 0;
+}
+/* line 905, ../sass/modelly.scss */
+.list-no-bullet.sub-plan {
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+/* line 911, ../sass/modelly.scss */
+.list-no-bullet.sub-plan li {
+  text-align: left;
+  margin-bottom: 17px;
+}
+/* line 914, ../sass/modelly.scss */
+.list-no-bullet.sub-plan li i {
+  margin-right: 20px;
+  color: #00e4ff;
+}
+/* line 921, ../sass/modelly.scss */
+.list-no-bullet.sub-plan li .price {
+  text-align: center !important;
+  font-size: 36px;
+  display: block;
+  line-height: 36px;
+}
+/* line 927, ../sass/modelly.scss */
+.list-no-bullet.sub-plan li .price span {
+  clear: both;
+  display: block;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+/* line 938, ../sass/modelly.scss */
+.list {
+  padding: 0;
+}
+/* line 942, ../sass/modelly.scss */
+.list > li {
+  margin: 10px 0;
+}
+/* line 946, ../sass/modelly.scss */
+.list > .has-icon {
+  list-style: none;
+  padding-left: 40px;
+  min-height: 20px;
+}
+/* line 951, ../sass/modelly.scss */
+.list > .has-icon .icon {
+  float: left;
+  margin-right: -100%;
+  margin-left: -40px;
+  margin-top: 3px;
+}
+
+/* ACCOUNT */
+/* line 963, ../sass/modelly.scss */
+.editInput {
+  text-align: right;
+  border: none;
+  height: 54px;
+}
+
+/* line 969, ../sass/modelly.scss */
+.menu-title {
+  color: #7a8389;
+  font-size: 12px;
+  text-align: left;
+  text-transform: uppercase;
+  margin: 10px 20px 10px 20px;
+}
+
+/* line 977, ../sass/modelly.scss */
+.account-menu {
+  list-style: none;
+  list-style-image: none;
+  padding: 5px 20px;
+  margin: 0;
+  background-color: #FFF;
+  -webkit-box-shadow: 0px 2px 2px 0px rgba(50, 50, 50, 0.1);
+  -moz-box-shadow: 0px 2px 2px 0px rgba(50, 50, 50, 0.1);
+  box-shadow: 0px 2px 2px 0px rgba(50, 50, 50, 0.1);
+  /* END ROUND*/
+  /* END FULL */
+}
+/* line 987, ../sass/modelly.scss */
+.account-menu.round {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  margin: 0px 20px 0 20px;
+}
+/* line 991, ../sass/modelly.scss */
+.account-menu.round li {
+  width: 100%;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  margin: 0;
+  border-bottom: solid 1px #e4e6e7;
+  height: 56px;
+}
+/* line 998, ../sass/modelly.scss */
+.account-menu.round li:last-child {
+  border-bottom: none;
+}
+/* line 1002, ../sass/modelly.scss */
+.account-menu.round li a {
+  width: 100%;
+  height: 56px;
+  line-height: 56px;
+  display: block;
+  color: #3b4448;
+  position: relative;
+  font-size: 18px;
+}
+/* line 1011, ../sass/modelly.scss */
+.account-menu.round li a i {
+  margin-right: 10px;
+  position: relative;
+  top: 2px;
+}
+/* line 1017, ../sass/modelly.scss */
+.account-menu.round li a.more {
+  padding-right: 30px;
+}
+/* line 1020, ../sass/modelly.scss */
+.account-menu.round li a.more span {
+  font-size: 14px;
+  color: #7a8389;
+}
+/* line 1028, ../sass/modelly.scss */
+.account-menu.round li .slabel {
+  color: #3b4448;
+  float: left;
+  line-height: 56px;
+  width: 30%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+/* line 1036, ../sass/modelly.scss */
+.account-menu.round li .slabel i {
+  font-size: 18px;
+  position: relative;
+  top: 2px;
+}
+/* line 1042, ../sass/modelly.scss */
+.account-menu.round li .svalue {
+  color: #7a8389;
+  float: right;
+  height: 56px;
+  line-height: 56px;
+  overflow: hidden;
+  text-align: right;
+  width: 60%;
+  text-overflow: ellipsis;
+}
+/* line 1052, ../sass/modelly.scss */
+.account-menu.round li .svalue .btn-toggle {
+  line-height: normal;
+  padding-right: 2px;
+  width: 52px;
+}
+/* line 1057, ../sass/modelly.scss */
+.account-menu.round li .svalue .btn-toggle label {
+  position: absolute;
+  text-align: right;
+  right: 60px;
+  width: 100px;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  top: 3px;
+  font-weight: normal;
+}
+/* line 1069, ../sass/modelly.scss */
+.account-menu.round li .svalue a {
+  display: inline-block;
+  width: auto;
+}
+/* line 1073, ../sass/modelly.scss */
+.account-menu.round li .svalue a i {
+  margin-right: 0;
+}
+/* line 1078, ../sass/modelly.scss */
+.account-menu.round li .edit {
+  line-height: 56px;
+  padding-left: 15px;
+  text-align: right;
+}
+/* line 1090, ../sass/modelly.scss */
+.account-menu.full li {
+  width: 100%;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  margin: 0;
+  border-bottom: solid 1px #e4e6e7;
+  height: 56px;
+}
+/* line 1097, ../sass/modelly.scss */
+.account-menu.full li a {
+  width: 100%;
+  height: 56px;
+  line-height: 56px;
+  display: block;
+  color: #3b4448;
+  position: relative;
+  font-size: 18px;
+}
+/* line 1106, ../sass/modelly.scss */
+.account-menu.full li a i {
+  margin-right: 10px;
+  position: relative;
+  top: 2px;
+}
+/* line 1114, ../sass/modelly.scss */
+.account-menu.full li:last-child {
+  border-bottom: none;
+}
+/* line 1124, ../sass/modelly.scss */
+.account-menu a.more:after {
+  content: "\e618";
+  font-family: 'modelly';
+  position: absolute;
+  right: 0px;
+  font-size: 12px;
+  color: #00e4ff;
+}
+
+/* line 1135, ../sass/modelly.scss */
+.flat-menu {
+  background-color: #FFF;
+  -webkit-box-shadow: 0 0px 1px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0 0px 1px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 0px 1px rgba(0, 0, 0, 0.08);
+  padding: 10px 0;
+  margin: 0;
+  position: relative;
+  z-index: 5;
+}
+/* line 27, ../sass/modelly.scss */
+.flat-menu:before, .flat-menu:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.flat-menu:after {
+  clear: both;
+}
+/* line 1144, ../sass/modelly.scss */
+.flat-menu li {
+  float: left;
+  width: 50%;
+  text-align: center;
+  font-size: 16px;
+  line-height: 30px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  color: #40464a;
+}
+/* line 1156, ../sass/modelly.scss */
+.flat-menu li:first-child {
+  border-right: 1px solid #e4e6e7;
+}
+/* line 1160, ../sass/modelly.scss */
+.flat-menu li.active {
+  color: #00e4ff;
+}
+/* line 1163, ../sass/modelly.scss */
+.flat-menu li.active:after {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #fff;
+  content: " ";
+  height: 0;
+  left: 50%;
+  margin-left: -11px;
+  margin-top: 7px;
+  position: absolute;
+  top: 100%;
+  width: 0;
+}
+/* line 1177, ../sass/modelly.scss */
+.flat-menu li.active:before {
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid #e7e7e7;
+  content: " ";
+  height: 0;
+  left: 50%;
+  margin-left: -9px;
+  margin-top: 10px;
+  position: absolute;
+  top: 100%;
+  width: 0;
+}
+
+/* line 1196, ../sass/modelly.scss */
+.about-me {
+  padding-bottom: 40px;
+}
+/* line 1200, ../sass/modelly.scss */
+.about-me .title {
+  margin: 24px 0 12px;
+  text-align: center;
+  color: #77848a;
+  text-transform: uppercase;
+  font-size: 12px;
+  line-height: 20px;
+}
+/* line 1208, ../sass/modelly.scss */
+.about-me .title [class^="modellyicon-"] {
+  font-size: 20px;
+  color: #00e4ff;
+  margin-right: 4px;
+  position: relative;
+  top: 3px;
+}
+/* line 1216, ../sass/modelly.scss */
+.about-me ul.parms {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  list-style-image: none;
+}
+/* line 27, ../sass/modelly.scss */
+.about-me ul.parms:before, .about-me ul.parms:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.about-me ul.parms:after {
+  clear: both;
+}
+/* line 1223, ../sass/modelly.scss */
+.about-me ul.parms li {
+  clear: both;
+  float: left;
+  width: 100%;
+  font-size: 16px;
+  padding: 0px 12px;
+  border-bottom: 1px solid #d9dcdd;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+}
+/* line 1232, ../sass/modelly.scss */
+.about-me ul.parms li .parm {
+  color: #77848a;
+  float: left;
+  max-width: 40%;
+  line-height: 47px;
+  font-weight: 100;
+}
+/* line 1240, ../sass/modelly.scss */
+.about-me ul.parms li .value {
+  color: #3b4448;
+  float: right;
+  max-width: 60%;
+  line-height: 47px;
+}
+/* line 1248, ../sass/modelly.scss */
+.about-me ul.parms li:last-child {
+  border-bottom: 0;
+}
+
+/* line 1259, ../sass/modelly.scss */
+.height100 {
+  height: 100% !important;
+}
+
+/* line 1264, ../sass/modelly.scss */
+.action {
+  margin: 0 4px;
+}
+
+/* line 1268, ../sass/modelly.scss */
+.location {
+  margin: 15px 0;
+}
+/* line 27, ../sass/modelly.scss */
+.location:before, .location:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.location:after {
+  clear: both;
+}
+/* line 1272, ../sass/modelly.scss */
+.location .icon {
+  float: left;
+  margin-right: 10px;
+}
+/* line 1277, ../sass/modelly.scss */
+.location .name {
+  display: block;
+  font-size: 16px;
+  color: #3b4448;
+  overflow: hidden;
+  font-weight: normal;
+  line-height: 18px;
+}
+/* line 1286, ../sass/modelly.scss */
+.location .place {
+  display: block;
+  color: #77848a;
+  font-size: 12px;
+  line-height: 14px;
+  overflow: hidden;
+}
+
+/* line 1296, ../sass/modelly.scss */
+.place-search.list-items {
+  padding-left: 20px;
+}
+
+/* line 1300, ../sass/modelly.scss */
+.search-input {
+  overflow: hidden;
+  margin: 13px 0;
+  display: block;
+}
+/* line 1305, ../sass/modelly.scss */
+.search-input input {
+  border: 0;
+  width: 100%;
+  height: 24px;
+  line-height: 24px;
+  font-size: 18px;
+}
+
+/* line 1315, ../sass/modelly.scss */
+.gmap {
+  width: 100%;
+  height: 320px;
+  display: block;
+}
+/* line 1320, ../sass/modelly.scss */
+.gmap .gm-style {
+  background-color: #35475f;
+}
+
+/* line 1325, ../sass/modelly.scss */
+.persons-list {
+  background: white;
+}
+
+/* line 1329, ../sass/modelly.scss */
+.alphabet {
+  position: fixed;
+  right: 5px;
+  top: 70px;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #77848a;
+}
+/* line 1340, ../sass/modelly.scss */
+.alphabet li {
+  list-style: none;
+}
+
+/* line 1345, ../sass/modelly.scss */
+.field-value {
+  font-size: 14px;
+  color: #77848a;
+}
+/* line 1349, ../sass/modelly.scss */
+.field-value + .icon {
+  margin-left: 10px;
+}
+
+/* line 1355, ../sass/modelly.scss */
+.settings-page {
+  padding-bottom: 40px;
+}
+/* line 1359, ../sass/modelly.scss */
+.settings-page .settings-page-header {
+  text-align: center;
+  padding-top: 35px;
+}
+/* line 1363, ../sass/modelly.scss */
+.settings-page .settings-page-header .icon {
+  width: 40px;
+}
+/* line 1366, ../sass/modelly.scss */
+.settings-page .settings-page-header .icon img {
+  width: 100%;
+}
+/* line 1371, ../sass/modelly.scss */
+.settings-page .settings-page-header .logo {
+  font-size: 36px;
+  margin: 0 0 30px 0;
+}
+/* line 1382, ../sass/modelly.scss */
+.settings-page .list-items .item-name {
+  font-size: 18px;
+}
+/* line 1386, ../sass/modelly.scss */
+.settings-page .list-items .checkbox {
+  float: right;
+  margin: -4px 0;
+}
+/* line 1392, ../sass/modelly.scss */
+.settings-page p {
+  text-align: center;
+}
+/* line 1396, ../sass/modelly.scss */
+.settings-page .common-text {
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+}
+/* line 1400, ../sass/modelly.scss */
+.settings-page .settings-label {
+  font-size: 10px;
+  display: block;
+  margin-bottom: 5px;
+  margin-top: 17px;
+  text-transform: uppercase;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  color: #77848a;
+}
+
+/* line 1412, ../sass/modelly.scss */
+.list-following .icon-close {
+  font-size: 10px;
+}
+/* line 1416, ../sass/modelly.scss */
+.list-following .icon-checked {
+  font-size: 8px;
+  display: inline-block;
+  position: relative;
+  top: -2px;
+}
+/* line 1423, ../sass/modelly.scss */
+.list-following .list-content {
+  padding-top: 5px;
+  display: inline-block;
+}
+
+/* line 1431, ../sass/modelly.scss */
+.center-align {
+  text-align: center;
+}
+
+/* line 27, ../sass/modelly.scss */
+.gender-selection:before, .gender-selection:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.gender-selection:after {
+  clear: both;
+}
+/* line 1441, ../sass/modelly.scss */
+.gender-selection .gender .gender-inner {
+  background-color: white;
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  height: 56px;
+  line-height: 56px;
+  -webkit-border-radius: 0px 56px 56px 0px;
+  -moz-border-radius: 0px 56px 56px 0px;
+  -ms-border-radius: 0px 56px 56px 0px;
+  -o-border-radius: 0px 56px 56px 0px;
+  border-radius: 0px 56px 56px 0px;
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-right: 15px;
+}
+/* line 1456, ../sass/modelly.scss */
+.gender-selection .gender:first-child .gender-inner {
+  -webkit-border-radius: 56px 0px 0px 56px;
+  -moz-border-radius: 56px 0px 0px 56px;
+  -ms-border-radius: 56px 0px 0px 56px;
+  -o-border-radius: 56px 0px 0px 56px;
+  border-radius: 56px 0px 0px 56px;
+  padding-right: 0;
+  padding-left: 15px;
+}
+/* line 1464, ../sass/modelly.scss */
+.gender-selection .gender input:checked + .gender-inner {
+  background: #00c6dd;
+  color: white;
+}
+/* line 1468, ../sass/modelly.scss */
+.gender-selection .gender input:checked + .gender-inner .icon {
+  color: white;
+}
+/* line 1476, ../sass/modelly.scss */
+.gender-selection input {
+  display: none;
+}
+
+/* line 1483, ../sass/modelly.scss */
+.model-cards {
+  position: relative;
+  height: 330px;
+}
+/* line 1487, ../sass/modelly.scss */
+.model-cards .model-card {
+  position: absolute;
+  width: 280px;
+  height: 330px;
+  background: white;
+  left: 50%;
+  margin-left: -140px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+/* line 1496, ../sass/modelly.scss */
+.model-cards .model-card i {
+  margin-right: 8px;
+  position: relative;
+  top: 2px;
+}
+/* line 1501, ../sass/modelly.scss */
+.model-cards .model-card .pull-right i {
+  margin-left: 8px;
+}
+/* line 1504, ../sass/modelly.scss */
+.model-cards .model-card .btn-more {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  background-color: rgba(18, 36, 49, 0.7);
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  z-index: 1;
+  color: #FFF;
+  text-align: center;
+  line-height: 30px;
+}
+/* line 1516, ../sass/modelly.scss */
+.model-cards .model-card .btn-more i {
+  text-align: center;
+  margin: 0 !important;
+  width: 100%;
+  color: #00e4ff;
+}
+/* line 1524, ../sass/modelly.scss */
+.model-cards .model-card .top {
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  padding: 12px 15px 0 15px;
+  color: #3b4448;
+  -webkit-border-radius: 5px 5px 0px 0px;
+  -moz-border-radius: 5px 5px 0px 0px;
+  -ms-border-radius: 5px 5px 0px 0px;
+  -o-border-radius: 5px 5px 0px 0px;
+  border-radius: 5px 5px 0px 0px;
+}
+/* line 27, ../sass/modelly.scss */
+.model-cards .model-card .top:before, .model-cards .model-card .top:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.model-cards .model-card .top:after {
+  clear: both;
+}
+/* line 1537, ../sass/modelly.scss */
+.model-cards .model-card .photo {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  -webkit-border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  -ms-border-radius: 0 0 5px 5px;
+  -o-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+}
+/* line 1547, ../sass/modelly.scss */
+.model-cards .back-1 {
+  -webkit-transform: scale(0.9, 0.9) translate(0px, -28px);
+  -moz-transform: scale(0.9, 0.9) translate(0px, -28px);
+  -ms-transform: scale(0.9, 0.9) translate(0px, -28px);
+  -o-transform: scale(0.9, 0.9) translate(0px, -28px);
+  transform: scale(0.9, 0.9) translate(0px, -28px);
+  opacity: 0.6;
+  z-index: 30;
+}
+/* line 1553, ../sass/modelly.scss */
+.model-cards .back-2 {
+  -webkit-transform: scale(0.8, 0.8) translate(0px, -61px);
+  -moz-transform: scale(0.8, 0.8) translate(0px, -61px);
+  -ms-transform: scale(0.8, 0.8) translate(0px, -61px);
+  -o-transform: scale(0.8, 0.8) translate(0px, -61px);
+  transform: scale(0.8, 0.8) translate(0px, -61px);
+  opacity: 0.3;
+  z-index: 20;
+}
+/* line 1558, ../sass/modelly.scss */
+.model-cards .back-2 > * {
+  display: none;
+}
+/* line 1564, ../sass/modelly.scss */
+.model-cards .back-3 {
+  -webkit-transform: scale(0.1, 0.1) translate(0px, 0px);
+  -moz-transform: scale(0.1, 0.1) translate(0px, 0px);
+  -ms-transform: scale(0.1, 0.1) translate(0px, 0px);
+  -o-transform: scale(0.1, 0.1) translate(0px, 0px);
+  transform: scale(0.1, 0.1) translate(0px, 0px);
+  opacity: 0;
+  z-index: 10;
+}
+/* line 1570, ../sass/modelly.scss */
+.model-cards .front {
+  -webkit-transform: scale(2, 2) translate(0px, 0px);
+  -moz-transform: scale(2, 2) translate(0px, 0px);
+  -ms-transform: scale(2, 2) translate(0px, 0px);
+  -o-transform: scale(2, 2) translate(0px, 0px);
+  transform: scale(2, 2) translate(0px, 0px);
+  opacity: 0;
+  z-index: 50;
+}
+
+/* line 1577, ../sass/modelly.scss */
+.newsfeed-container {
+  height: 100%;
+}
+
+/* line 1580, ../sass/modelly.scss */
+.scrollable-content {
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* line 1585, ../sass/modelly.scss */
+.newsfeed-header {
+  background-color: #FFF;
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 0px;
+  font-size: 14px;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  text-align: center;
+  line-height: 66px;
+  position: relative;
+  height: 66px;
+  margin: 0px;
+  color: #3b4448;
+}
+/* line 1600, ../sass/modelly.scss */
+.newsfeed-header b {
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+}
+/* line 1604, ../sass/modelly.scss */
+.newsfeed-header img {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+/* line 1612, ../sass/modelly.scss */
+.empty-list {
+  color: #3b4448;
+  text-align: center;
+  padding: 0px 40px !important;
+}
+
+/* line 1619, ../sass/modelly.scss */
+.lr-footer {
+  text-align: center;
+}
+/* line 1623, ../sass/modelly.scss */
+.lr-footer .footer-btn {
+  color: #00e4ff;
+  font-size: 18px;
+  line-height: 80px;
+  text-decoration: none;
+  margin: 0 10px;
+}
+/* line 1631, ../sass/modelly.scss */
+.lr-footer .footer-btn-left {
+  float: left;
+}
+/* line 1635, ../sass/modelly.scss */
+.lr-footer .footer-btn-right {
+  float: right;
+}
+/* line 1639, ../sass/modelly.scss */
+.lr-footer .steps {
+  margin-top: 25px;
+}
+
+/* OLD */
+/* line 1649, ../sass/modelly.scss */
+html, body {
+  width: 100%;
+  height: 100%;
+  color: #FFF;
+}
+
+/* line 1655, ../sass/modelly.scss */
+.row {
+  margin-left: -20px !important;
+  margin-right: -20px !important;
+}
+
+/* line 1659, ../sass/modelly.scss */
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* line 1664, ../sass/modelly.scss */
+.absolute {
+  position: absolute;
+}
+/* line 1667, ../sass/modelly.scss */
+.absolute.bottom {
+  bottom: 0px;
+}
+/* line 1670, ../sass/modelly.scss */
+.absolute.top {
+  top: 0px;
+}
+/* line 1674, ../sass/modelly.scss */
+.absolute.full {
+  width: 100%;
+}
+
+/* line 1679, ../sass/modelly.scss */
+.relative {
+  position: relative;
+}
+
+/* line 1683, ../sass/modelly.scss */
+.fixed {
+  position: fixed;
+}
+/* line 1686, ../sass/modelly.scss */
+.fixed.bottom {
+  bottom: 0px;
+}
+/* line 1689, ../sass/modelly.scss */
+.fixed.top {
+  top: 0px;
+}
+/* line 1693, ../sass/modelly.scss */
+.fixed.full {
+  width: 100%;
+}
+
+@-moz-keyframes rotate360 {
+  /* line 1700, ../sass/modelly.scss */
+  from {
+    -moz-transform: rotate(0deg);
+  }
+
+  /* line 1701, ../sass/modelly.scss */
+  to {
+    -moz-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes rotate360 {
+  /* line 1705, ../sass/modelly.scss */
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+
+  /* line 1706, ../sass/modelly.scss */
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+/* line 1709, ../sass/modelly.scss */
+.preloader {
+  text-align: center;
+}
+/* line 1712, ../sass/modelly.scss */
+.preloader img {
+  -moz-animation: rotate360 1s linear 0s infinite;
+  -webkit-animation: rotate360 1s linear 0 infinite;
+  margin-top: -90px;
+  width: 100%;
+  max-width: 180px;
+}
+
+/* line 1721, ../sass/modelly.scss */
+ul.progress {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+  margin: 0;
+}
+/* line 1727, ../sass/modelly.scss */
+ul.progress li {
+  display: inline-block;
+  text-align: center;
+}
+
+/* line 1733, ../sass/modelly.scss */
+ul.progress {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+  box-shadow: none;
+  text-align: center;
+}
+/* line 1742, ../sass/modelly.scss */
+ul.progress li {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  overflow: hidden;
+  margin: 0 2px;
+  background: #a9a4a9;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+}
+/* line 1752, ../sass/modelly.scss */
+ul.progress .active {
+  background: #00e4ff;
+}
+
+/* BUTTONS */
+/* line 1760, ../sass/modelly.scss */
+* {
+  outline: none !important;
+}
+
+/* line 1763, ../sass/modelly.scss */
+a {
+  outline: 0;
+}
+/* line 1765, ../sass/modelly.scss */
+a.blue {
+  color: #00e4ff;
+}
+/* line 1768, ../sass/modelly.scss */
+a.blue:active {
+  color: #11abbe;
+}
+/* line 1772, ../sass/modelly.scss */
+a.white {
+  color: #FFF;
+}
+
+/* Toggle BTN */
+/* line 1779, ../sass/modelly.scss */
+.iostoggle {
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+  right: 0;
+  margin: 0 !important;
+  width: 100px;
+  z-index: 100;
+}
+/* line 1789, ../sass/modelly.scss */
+.iostoggle + span {
+  border-radius: 15px;
+  box-shadow: 0 0 0 1px #d5d5d5 inset;
+  display: block;
+  height: 30px;
+  position: relative;
+  text-indent: -5000px;
+  width: 50px;
+}
+/* line 1798, ../sass/modelly.scss */
+.iostoggle + span:before {
+  background: none repeat scroll 0 0 rgba(19, 191, 17, 0);
+  border-radius: 15px;
+  content: "";
+  display: block;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+/* line 1809, ../sass/modelly.scss */
+.iostoggle + span:after {
+  background: none repeat scroll 0 0 white;
+  border-radius: 15px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2) inset, 0 2px 4px rgba(0, 0, 0, 0.2);
+  content: "";
+  display: block;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+/* line 1826, ../sass/modelly.scss */
+.iostoggle:checked + span:before {
+  background: none repeat scroll 0 0 #01c6dd;
+  width: 50px;
+  content: "";
+}
+/* line 1831, ../sass/modelly.scss */
+.iostoggle:checked + span:after {
+  box-shadow: 0 0 0 1px #01c6dd inset, 0 2px 4px rgba(0, 0, 0, 0.2);
+  left: 20px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+/* line 1842, ../sass/modelly.scss */
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  background-color: rgba(0, 227, 255, 0.8);
+  display: block;
+  text-align: center;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  border: 0;
+  text-decoration: none;
+  padding: 0;
+}
+/* line 1852, ../sass/modelly.scss */
+.btn.icon {
+  padding: 10px;
+  background-color: transparent;
+  color: #00e4ff;
+  z-index: 2;
+}
+/* line 1857, ../sass/modelly.scss */
+.btn.icon:hover {
+  background-color: rgba(204, 204, 204, 0.05) !important;
+}
+/* line 1862, ../sass/modelly.scss */
+.btn.rount-small {
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  line-height: 30px;
+  text-align: center;
+}
+/* line 1870, ../sass/modelly.scss */
+.btn.rount-small.blue {
+  background-color: #00c6dd;
+  color: #FFF;
+}
+/* line 1875, ../sass/modelly.scss */
+.btn.rount-small:hover {
+  background-color: #00c6dd;
+  color: white !important;
+}
+/* line 1879, ../sass/modelly.scss */
+.btn.rount-small.black {
+  background-color: rgba(18, 22, 25, 0.7);
+  color: #00e4ff;
+}
+/* line 1883, ../sass/modelly.scss */
+.btn.rount-small i {
+  position: relative;
+  top: 1px;
+}
+/* line 1888, ../sass/modelly.scss */
+.btn.circle-small {
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  background-color: transparent;
+  line-height: 30px;
+  text-align: center;
+  border: solid 2px #00c6dd;
+  color: #00c6dd;
+}
+/* line 1898, ../sass/modelly.scss */
+.btn.circle-small.blue {
+  border-color: #00c6dd;
+  color: #00c6dd;
+}
+/* line 1902, ../sass/modelly.scss */
+.btn.circle-small:hover {
+  background-color: transparent;
+  color: #00c6dd;
+}
+/* line 1910, ../sass/modelly.scss */
+.btn:hover {
+  background-color: #16c4d9;
+}
+/* line 1913, ../sass/modelly.scss */
+.btn:active, .btn.active {
+  box-shadow: none;
+}
+/* line 1917, ../sass/modelly.scss */
+.btn.btn-discover {
+  padding-right: 48px !important;
+  min-width: 140px;
+  position: relative;
+}
+/* line 1922, ../sass/modelly.scss */
+.btn.btn-discover i {
+  line-height: 18px;
+  position: absolute;
+  right: 12px;
+  top: 10px;
+}
+/* line 1930, ../sass/modelly.scss */
+.btn.btn-lg {
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  -ms-border-radius: 28px;
+  -o-border-radius: 28px;
+  border-radius: 28px;
+  height: 56px;
+  line-height: 56px;
+  color: #fff;
+  font-size: 18px;
+}
+/* line 1938, ../sass/modelly.scss */
+.btn.btn-inline {
+  display: inline-block;
+  padding: 0 20px;
+}
+/* line 1942, ../sass/modelly.scss */
+.btn.btn-inline .size-2x {
+  position: relative;
+  top: 8px;
+  padding-left: 14px;
+}
+/* line 1949, ../sass/modelly.scss */
+.btn.btn-white {
+  background: white;
+  color: #40464a;
+}
+/* line 1954, ../sass/modelly.scss */
+.btn.disabled {
+  background: #77848a;
+}
+/* line 1960, ../sass/modelly.scss */
+.btn.btn-icon .icon {
+  float: right;
+  width: 32px;
+  margin: 10px 10px 0 0;
+}
+/* line 1969, ../sass/modelly.scss */
+.btn.btn-important .icon {
+  border-color: #d76e7b;
+}
+/* line 1972, ../sass/modelly.scss */
+.btn.btn-important .icon:before {
+  color: #d76e7b;
+}
+
+/* line 1981, ../sass/modelly.scss */
+.btn-group .btn {
+  float: right;
+  width: 48%;
+}
+/* line 1985, ../sass/modelly.scss */
+.btn-group .btn:first-of-type {
+  float: left;
+}
+
+/* line 1991, ../sass/modelly.scss */
+.btn-rounded {
+  border: 2px solid #00e4ff;
+  height: 32px;
+  padding: 0 15px;
+  line-height: 28px;
+  color: #00e4ff;
+  font-size: 14px;
+  border-radius: 16px;
+  display: inline-block;
+}
+
+/* line 2002, ../sass/modelly.scss */
+.btn-next {
+  font-size: 16px;
+  color: #00e4ff;
+  line-height: 40px;
+}
+/* line 2007, ../sass/modelly.scss */
+.btn-next .icon {
+  font-size: 12px;
+}
+
+/* CHECKBOX */
+/* line 2015, ../sass/modelly.scss */
+.checkbox {
+  display: inline-block;
+  line-height: 0;
+  font-size: 0;
+}
+/* line 2021, ../sass/modelly.scss */
+.checkbox input {
+  display: none;
+}
+/* line 2025, ../sass/modelly.scss */
+.checkbox .checkbox-helper {
+  display: inline-block;
+  width: 45px;
+  height: 26px;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  -ms-border-radius: 13px;
+  -o-border-radius: 13px;
+  border-radius: 13px;
+  border: 1px solid #D6DADC;
+  position: relative;
+}
+/* line 2033, ../sass/modelly.scss */
+.checkbox .checkbox-helper:before {
+  content: " ";
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 1px;
+  left: 2px;
+  background-color: #FFF;
+  -moz-box-shadow: 0px 2px 13.9px 1.1px rgba(0, 0, 1, 0.2);
+  -webkit-box-shadow: 0px 2px 13.9px 1.1px rgba(0, 0, 1, 0.2);
+  box-shadow: 0px 2px 13.9px 1.1px rgba(0, 0, 1, 0.2);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-transition: all 200ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 200ms cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+/* line 2050, ../sass/modelly.scss */
+.checkbox .checkbox-helper:after {
+  content: attr(data-off);
+  position: absolute;
+  right: 100%;
+  margin-right: 5px;
+  float: right;
+  font-size: 14px;
+  line-height: 26px;
+  color: #77848a;
+}
+/* line 2063, ../sass/modelly.scss */
+.checkbox input:checked + .checkbox-helper {
+  border: 0;
+  background: #01c6dd;
+}
+/* line 2068, ../sass/modelly.scss */
+.checkbox input:checked + .checkbox-helper:before {
+  left: 21px;
+  top: 2px;
+}
+/* line 2073, ../sass/modelly.scss */
+.checkbox input:checked + .checkbox-helper:after {
+  content: attr(data-on);
+}
+
+/* INPUT */
+/* line 2085, ../sass/modelly.scss */
+input {
+  outline: none;
+}
+
+/* line 2088, ../sass/modelly.scss */
+.form-control {
+  border: none;
+  background: none;
+  box-shadow: none !important;
+  margin: 0;
+}
+/* line 2094, ../sass/modelly.scss */
+.form-control:focus {
+  border-color: #b9b9c0 !important;
+  box-shadow: none !important;
+  outline: 0 none;
+}
+/* line 2099, ../sass/modelly.scss */
+.form-control.line {
+  border-bottom: solid 1px #b9b9c0;
+  color: #fff;
+  display: block;
+  font-size: 18px;
+  height: 37px;
+  margin: 14px 0;
+  padding-bottom: 13px;
+  text-align: center;
+  width: 100%;
+  border-radius: 0;
+  margin: 0;
+}
+/* line 2112, ../sass/modelly.scss */
+.form-control.line.error {
+  background: url(../img/error.png) no-repeat right center;
+  background-size: 8px 8px;
+}
+
+/* line 2123, ../sass/modelly.scss */
+select.form-control.text-center {
+  width: 100%;
+  text-align: center;
+}
+/* line 2126, ../sass/modelly.scss */
+select.form-control.text-center option {
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+/* line 2133, ../sass/modelly.scss */
+.form-control::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: white !important;
+  opacity: 0.6 !important;
+}
+
+/* line 2137, ../sass/modelly.scss */
+.form-control:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: white !important;
+  opacity: 0.6 !important;
+}
+
+/* line 2141, ../sass/modelly.scss */
+.form-control::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: white !important;
+  opacity: 0.6 !important;
+}
+
+/* line 2145, ../sass/modelly.scss */
+.form-control:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: white !important;
+  opacity: 0.6 !important;
+}
+
+/* line 27, ../sass/modelly.scss */
+.input-line:before, .input-line:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.input-line:after {
+  clear: both;
+}
+
+/* line 2159, ../sass/modelly.scss */
+.input-line-50 .input-wrapper {
+  width: 48%;
+  float: left;
+}
+/* line 2164, ../sass/modelly.scss */
+.input-line-50 .input-wrapper:first-child {
+  margin-right: 4%;
+}
+
+/* line 2170, ../sass/modelly.scss */
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 5px;
+  background: #ddd;
+  border: none;
+  border-radius: 3px;
+}
+
+/* line 2178, ../sass/modelly.scss */
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin-top: -8px;
+  background-color: #FFF;
+  -moz-box-shadow: -0.7px 5px 1.9px 2.1px rgba(0, 0, 1, 0.05);
+  -webkit-box-shadow: -0.7px 5px 1.9px 2.1px rgba(0, 0, 1, 0.05);
+  box-shadow: -0.7px 5px 1.9px 2.1px rgba(0, 0, 1, 0.05);
+}
+
+/* line 2191, ../sass/modelly.scss */
+input[type=range]:focus {
+  outline: none;
+}
+
+/* line 2195, ../sass/modelly.scss */
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #ccc;
+}
+
+/* line 2199, ../sass/modelly.scss */
+input[type="range"] {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 3px;
+  margin: 0;
+  border: none;
+  background: #232528;
+  outline: none;
+  /* no focus outline */
+}
+
+/* line 2209, ../sass/modelly.scss */
+input[type="range"]::-moz-range-track {
+  border: inherit;
+  background: transparent;
+}
+
+/* line 2214, ../sass/modelly.scss */
+input[type="range"]::-ms-track {
+  border: inherit;
+  color: transparent;
+  /* don't drawn vertical reference line */
+  background: transparent;
+}
+
+/* line 2221, ../sass/modelly.scss */
+input[type="range"]::-ms-fill-lower,
+input[type="range"]::-ms-fill-upper {
+  background: transparent;
+}
+
+/* line 2225, ../sass/modelly.scss */
+input[type="range"]::-ms-tooltip {
+  display: none;
+}
+
+/* line 2229, ../sass/modelly.scss */
+.input-range {
+  line-height: 20px;
+  display: table;
+  width: 100%;
+}
+/* line 2236, ../sass/modelly.scss */
+.input-range .value {
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  width: 80px;
+  text-align: center;
+  display: table-cell;
+}
+/* line 2246, ../sass/modelly.scss */
+.input-range > .control {
+  display: table-cell;
+  height: 20px;
+}
+/* line 2250, ../sass/modelly.scss */
+.input-range > .control input {
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+}
+/* line 2257, ../sass/modelly.scss */
+.input-range > .control.noUi-target input {
+  display: none;
+}
+/* line 2263, ../sass/modelly.scss */
+.input-range > .control.noUi-connect .noUi-base {
+  background: #00c6dd;
+}
+/* line 2268, ../sass/modelly.scss */
+.input-range > .control .noUi-base {
+  position: relative;
+  width: 100%;
+  height: 5px;
+  border: none;
+  border-radius: 3px;
+  position: relative;
+  background: #d2d6d7;
+}
+/* line 2277, ../sass/modelly.scss */
+.input-range > .control .noUi-base .noUi-background {
+  background: #d2d6d7;
+}
+/* line 2281, ../sass/modelly.scss */
+.input-range > .control .noUi-base .noUi-origin {
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+/* line 2289, ../sass/modelly.scss */
+.input-range > .control .noUi-base .noUi-handle {
+  position: relative;
+  top: 0;
+  border: none;
+  margin-top: -8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #FFF;
+  -moz-box-shadow: -0.7px 5px 1.9px 2.1px rgba(0, 0, 1, 0.05);
+  -webkit-box-shadow: -0.7px 5px 1.9px 2.1px rgba(0, 0, 1, 0.05);
+  box-shadow: -0.7px 5px 1.9px 2.1px rgba(0, 0, 1, 0.05);
+}
+/* line 2303, ../sass/modelly.scss */
+.input-range > .control .noUi-base .noUi-handle-lower {
+  margin-left: -9px;
+}
+/* line 2307, ../sass/modelly.scss */
+.input-range > .control .noUi-base .noUi-connect {
+  height: 5px;
+  background: #00c6dd;
+}
+
+/* line 2317, ../sass/modelly.scss */
+.form-group {
+  position: relative;
+  display: block;
+}
+/* line 2321, ../sass/modelly.scss */
+.form-group .error-tooltip {
+  position: absolute;
+  bottom: 100%;
+  margin-bottom: 5px;
+  width: 100%;
+  left: 0;
+  text-align: center;
+}
+/* line 2329, ../sass/modelly.scss */
+.form-group .error-tooltip:before {
+  content: " ";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -6px;
+  border-top: 6px solid #d76e7b;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+}
+/* line 2341, ../sass/modelly.scss */
+.form-group .error-tooltip-content {
+  background: #d76e7b;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  border-radius: 16px;
+  display: inline-block;
+  color: white;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 7px 35px;
+}
+/* line 2350, ../sass/modelly.scss */
+.form-group .form-control-feedback {
+  line-height: 34px !important;
+}
+/* line 2355, ../sass/modelly.scss */
+.form-group.has-feedback .form-control-feedback {
+  left: 0;
+}
+/* line 2359, ../sass/modelly.scss */
+.form-group.has-feedback .form-control {
+  padding-left: 42.5px;
+  padding-right: 42.5px;
+}
+
+/* line 2366, ../sass/modelly.scss */
+.noUI-borders {
+  border: none;
+  background: none;
+  color: #3b4448;
+}
+
+/* LISTS */
+/* line 2373, ../sass/modelly.scss */
+.notifications-list {
+  padding: 0;
+  margin: 30px 20px 30px 20px;
+  list-style: none;
+  list-style-image: none;
+  height: 100%;
+  overflow: auto;
+}
+/* line 2381, ../sass/modelly.scss */
+.notifications-list li {
+  padding: 12px 0 12px 0;
+  margin: 0;
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  border-bottom: solid 1px rgba(255, 255, 255, 0.15);
+}
+/* line 2391, ../sass/modelly.scss */
+.notifications-list li .user-avatar {
+  width: 36px;
+  height: 36px;
+  margin-right: 10px;
+  float: left;
+}
+/* line 2397, ../sass/modelly.scss */
+.notifications-list li .content {
+  float: left;
+}
+/* line 2400, ../sass/modelly.scss */
+.notifications-list li .content h4 {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+/* line 2407, ../sass/modelly.scss */
+.notifications-list li .content small {
+  clear: both;
+  float: left;
+  font-size: 12px;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+}
+/* line 2413, ../sass/modelly.scss */
+.notifications-list li .content small i {
+  margin-right: 2px;
+  position: relative;
+  top: 2px;
+}
+/* line 2420, ../sass/modelly.scss */
+.notifications-list li .photo {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  overflow: hidden;
+  width: 36px;
+  height: 36px;
+  display: block;
+  float: right;
+  border: 2px solid #98a0a5;
+}
+/* line 2429, ../sass/modelly.scss */
+.notifications-list li .photo img {
+  width: 100%;
+}
+
+/* line 2436, ../sass/modelly.scss */
+.empty-notifications-list {
+  height: 100%;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+}
+/* line 2440, ../sass/modelly.scss */
+.empty-notifications-list p {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
+/* line 2445, ../sass/modelly.scss */
+.empty-notifications-list .modellyicon-bell {
+  font-size: 50px;
+}
+
+/* line 2450, ../sass/modelly.scss */
+.list-items {
+  padding: 0px 0px 50px 0px;
+  margin: 0;
+}
+/* line 27, ../sass/modelly.scss */
+.list-items:before, .list-items:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.list-items:after {
+  clear: both;
+}
+/* line 2457, ../sass/modelly.scss */
+.list-items.left-padding {
+  padding-left: 20px;
+}
+/* line 2461, ../sass/modelly.scss */
+.list-items.list-primary {
+  padding-left: 20px;
+}
+/* line 2464, ../sass/modelly.scss */
+.list-items.list-primary .list-item {
+  padding-right: 20px;
+}
+/* line 2472, ../sass/modelly.scss */
+.list-items.simple li {
+  overflow: hidden;
+  padding: 17px 0;
+  list-style: none;
+  border-bottom: 1px solid #d9dcdd;
+}
+/* line 2478, ../sass/modelly.scss */
+.list-items.simple li:last-child {
+  border: 0;
+}
+/* line 2482, ../sass/modelly.scss */
+.list-items.simple li.right-padding {
+  padding-right: 20px;
+}
+/* line 2486, ../sass/modelly.scss */
+.list-items.simple li [class^="modellyicon-"] {
+  font-size: 12px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+/* line 2497, ../sass/modelly.scss */
+.list-items .circle-checkbox {
+  font-family: 'modelly';
+  border: solid 2px #e4e6e7;
+  background-color: #FFF;
+  width: 36px;
+  height: 36px;
+  text-align: center;
+  line-height: 36px;
+  font-size: 16px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+/* line 2508, ../sass/modelly.scss */
+.list-items .circle-checkbox.selected {
+  border: solid 2px #00e4ff;
+}
+/* line 2510, ../sass/modelly.scss */
+.list-items .circle-checkbox.selected:before {
+  font-family: 'modelly';
+  content: "\e607";
+  color: #00e4ff;
+}
+/* line 2518, ../sass/modelly.scss */
+.list-items a.follow {
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  -ms-border-radius: 28px;
+  -o-border-radius: 28px;
+  border-radius: 28px;
+  border: solid 2px #00e4ff;
+  display: block;
+  text-align: center;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  padding: 0px 16px;
+  height: 34px;
+  line-height: 30px;
+  color: #00e4ff;
+  font-size: 14px;
+  float: right;
+}
+/* line 2532, ../sass/modelly.scss */
+.list-items a.follow:hover {
+  background-color: rgba(204, 204, 204, 0.1) !important;
+}
+/* line 2537, ../sass/modelly.scss */
+.list-items a.remove {
+  float: right;
+}
+/* line 2539, ../sass/modelly.scss */
+.list-items a.remove:before {
+  font-family: 'modelly';
+  content: "\e608";
+  color: #7a8389;
+  font-size: 11px;
+  padding: 9px 15px;
+  line-height: 32px;
+}
+/* line 2549, ../sass/modelly.scss */
+.list-items .user-avatar {
+  width: 36px;
+  height: 36px;
+  display: block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+/* line 2555, ../sass/modelly.scss */
+.list-items .user-avatar img {
+  width: 100%;
+  height: 100%;
+}
+/* line 2559, ../sass/modelly.scss */
+.list-items .user-avatar.pull-left {
+  margin-right: 10px;
+}
+/* line 2562, ../sass/modelly.scss */
+.list-items .user-avatar.pull-right {
+  margin-left: 10px;
+}
+/* line 2567, ../sass/modelly.scss */
+.list-items .item-name {
+  margin: 0;
+  font-size: 16px;
+  color: #3b4448;
+  line-height: 18px;
+  font-weight: normal;
+}
+/* line 2575, ../sass/modelly.scss */
+.list-items .item-info {
+  color: #77848a;
+  font-size: 12px;
+  line-height: 14px;
+  display: block;
+}
+
+/* line 2586, ../sass/modelly.scss */
+.list-nav {
+  background: white;
+}
+/* line 2589, ../sass/modelly.scss */
+.list-nav .list-item {
+  padding: 18px 0;
+}
+
+/* line 2594, ../sass/modelly.scss */
+.list-rounded {
+  background: white;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 2600, ../sass/modelly.scss */
+.users-share {
+  background-color: rgba(84, 96, 105, 0.7);
+  padding: 8px 20px 8px 20px !important;
+  z-index: 1;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+}
+/* line 2607, ../sass/modelly.scss */
+.users-share p {
+  line-height: 40px;
+  margin-bottom: 0px;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+/* line 2614, ../sass/modelly.scss */
+.users-share p.pull-left [class^="modellyicon-"] {
+  margin-right: 5px;
+  font-size: 17px;
+  position: relative;
+  top: 2px;
+}
+/* line 2622, ../sass/modelly.scss */
+.users-share p.pull-right [class^="modellyicon-"] {
+  margin-left: 5px;
+  font-size: 17px;
+  position: relative;
+  top: 2px;
+}
+/* line 2631, ../sass/modelly.scss */
+.users-share ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  list-style-image: none;
+  height: 40px;
+}
+/* line 2640, ../sass/modelly.scss */
+.users-share ul li {
+  display: inline-block;
+  float: left;
+  height: 40px;
+  margin-right: 8px;
+  width: 40px;
+  background-color: rgba(255, 255, 255, 0.12);
+  border: solid 2px rgba(255, 255, 255, 0.2);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+  text-align: center;
+}
+/* line 2652, ../sass/modelly.scss */
+.users-share ul li.blue {
+  border: solid 2px #00e4ff;
+  background-color: transparent;
+}
+/* line 2656, ../sass/modelly.scss */
+.users-share ul li:last-child {
+  margin-right: 0;
+}
+/* line 2660, ../sass/modelly.scss */
+.users-share ul li a {
+  text-align: center;
+  line-height: 40px;
+  display: block;
+}
+/* line 2665, ../sass/modelly.scss */
+.users-share ul li a:active {
+  background-color: #FFF;
+}
+/* line 2669, ../sass/modelly.scss */
+.users-share ul li img {
+  width: 100%;
+  height: 100%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* PROFILE */
+/* line 2685, ../sass/modelly.scss */
+.profile {
+  background: #f0f2f2;
+  height: auto;
+}
+/* line 2690, ../sass/modelly.scss */
+.profile .profile-image {
+  position: relative;
+  font-size: 0px;
+}
+
+/* line 2704, ../sass/modelly.scss */
+.photo320 {
+  min-height: 320px;
+}
+/* line 2707, ../sass/modelly.scss */
+.photo320 img {
+  width: 100%;
+}
+/* line 2711, ../sass/modelly.scss */
+.photo320 .follow {
+  float: right !important;
+  line-height: 28px;
+  margin-right: 0px !important;
+}
+/* line 2717, ../sass/modelly.scss */
+.photo320 .follow.active a:before {
+  font-family: 'modelly';
+  content: "\e607";
+  color: #00e4ff;
+  padding-right: 5px;
+  font-size: 11px;
+}
+/* line 2726, ../sass/modelly.scss */
+.photo320 .follow a {
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  -ms-border-radius: 28px;
+  -o-border-radius: 28px;
+  border-radius: 28px;
+  border: solid 2px #00e4ff;
+  display: block;
+  text-align: center;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  padding: 0px 16px;
+  height: 32px;
+  line-height: 28px;
+  color: #00e4ff;
+  font-size: 14px;
+}
+/* line 2739, ../sass/modelly.scss */
+.photo320 .follow a:hover {
+  background-color: rgba(204, 204, 204, 0.1) !important;
+}
+/* line 2746, ../sass/modelly.scss */
+.photo320 .account-left {
+  position: absolute;
+  left: 20px;
+  bottom: 25px;
+  z-index: 6;
+}
+/* line 2752, ../sass/modelly.scss */
+.photo320 .account-right {
+  position: absolute;
+  right: 20px;
+  bottom: 25px;
+  z-index: 6;
+}
+/* line 2758, ../sass/modelly.scss */
+.photo320 .account-right .btn-edit {
+  width: 32px;
+  height: 32px;
+  display: block;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  background-color: rgba(18, 36, 49, 0.7);
+}
+/* line 2766, ../sass/modelly.scss */
+.photo320 .account-right .btn-edit i {
+  color: #00e4ff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 32px;
+  position: relative;
+  top: -1px;
+  left: 1px;
+}
+/* line 2780, ../sass/modelly.scss */
+.photo320.info {
+  position: relative;
+  z-index: 2;
+}
+/* line 2784, ../sass/modelly.scss */
+.photo320.info:before {
+  content: " ";
+  position: absolute;
+  z-index: 5;
+  opacity: 0.5;
+  background-image: -moz-linear-gradient(bottom, #122431 0%, rgba(18, 36, 49, 0) 100%);
+  background-image: -o-linear-gradient(bottom, #122431 0%, rgba(18, 36, 49, 0) 100%);
+  background-image: -webkit-linear-gradient(bottom, #122431 0%, rgba(18, 36, 49, 0) 100%);
+  background-image: linear-gradient(to top, #122431 0%, rgba(18, 36, 49, 0) 100%);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 140px;
+}
+/* line 2800, ../sass/modelly.scss */
+.photo320.info .stats {
+  list-style: none;
+  list-style-image: none;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  left: 0px;
+  bottom: 20px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 19px;
+  padding-left: 20px;
+  width: 100%;
+}
+/* line 27, ../sass/modelly.scss */
+.photo320.info .stats:before, .photo320.info .stats:after {
+  content: "";
+  display: table;
+}
+/* line 31, ../sass/modelly.scss */
+.photo320.info .stats:after {
+  clear: both;
+}
+/* line 2815, ../sass/modelly.scss */
+.photo320.info .stats li {
+  float: left;
+  padding-right: 16px;
+  margin-right: 15px;
+  position: relative;
+  z-index: 10;
+}
+/* line 2822, ../sass/modelly.scss */
+.photo320.info .stats li:after {
+  content: " ";
+  position: absolute;
+  width: 0.5px;
+  top: 8px;
+  bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.15);
+  right: 0;
+}
+/* line 2832, ../sass/modelly.scss */
+.photo320.info .stats li:last-child:after {
+  display: none;
+}
+/* line 2836, ../sass/modelly.scss */
+.photo320.info .stats li small {
+  display: block;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+/* line 2845, ../sass/modelly.scss */
+.photo320 .my-name {
+  position: absolute;
+  width: 100%;
+  bottom: 18px;
+  line-height: 34px;
+  z-index: 5;
+  font-size: 18px;
+  color: #fff;
+}
+
+/* swipe */
+/* line 2860, ../sass/modelly.scss */
+.swipe {
+  height: 385px;
+  width: 100%;
+  position: relative;
+  padding-top: 365px;
+  overflow: hidden;
+  perspective: 600px;
+  -webkit-perspective-origin: 50%, 50%;
+  -moz-perspective-origin: 50%, 50%;
+  -o-perspective-origin: 50%, 50%;
+  -ms-perspective-origin: 50%, 50%;
+}
+/* line 2873, ../sass/modelly.scss */
+.swipe h2 {
+  margin-bottom: 25px;
+  margin-top: 0 !important;
+}
+/* line 2878, ../sass/modelly.scss */
+.swipe .item {
+  width: 74%;
+  height: 355px;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.4);
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  -moz-box-shadow: 0.5px 0.9px 4px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0.5px 0.9px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0.5px 0.9px 4px rgba(0, 0, 0, 0.05);
+  position: absolute;
+  top: 0;
+  left: 12%;
+  -webkit-transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transform: translateX(0) rotateY(0deg) translateX(0);
+}
+/* line 2897, ../sass/modelly.scss */
+.swipe .item.left {
+  -webkit-transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transform: translateX(-100%) rotateY(30deg) translateX(-3%);
+}
+/* line 2904, ../sass/modelly.scss */
+.swipe .item.left-hide {
+  -webkit-transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transform: translateX(-200%) rotateY(60deg) translateX(-3%);
+}
+/* line 2911, ../sass/modelly.scss */
+.swipe .item.right {
+  -webkit-transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transform: translateX(100%) rotateY(-30deg) translateX(3%);
+}
+/* line 2918, ../sass/modelly.scss */
+.swipe .item.right-hide {
+  -webkit-transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: transform 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transform: translateX(200%) rotateY(-60deg) translateX(3%);
+}
+
+/* TIMELINE */
+/* line 2938, ../sass/modelly.scss */
+.timeline {
+  border-left: 1px solid #d9dcdd;
+  padding-left: 30px;
+  margin-left: 32px;
+  margin-top: 18px;
+  padding-bottom: 26px;
+  list-style: none;
+  list-style-image: none;
+}
+/* line 2949, ../sass/modelly.scss */
+.timeline li {
+  position: relative;
+  padding-right: 20px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #d9dcdd;
+}
+/* line 2955, ../sass/modelly.scss */
+.timeline li:last-child {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+/* line 2960, ../sass/modelly.scss */
+.timeline li .title {
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  color: #3b4448;
+  margin: 0;
+}
+/* line 2965, ../sass/modelly.scss */
+.timeline li .title strong {
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+}
+/* line 2969, ../sass/modelly.scss */
+.timeline li .title [class^="modellyicon-"] {
+  color: #00e4ff;
+  font-size: 16px;
+  position: relative;
+  top: 2px;
+}
+/* line 2977, ../sass/modelly.scss */
+.timeline li .date {
+  color: #77848a;
+  font-size: 12px;
+}
+/* line 2983, ../sass/modelly.scss */
+.timeline li .user-avatar {
+  display: block;
+  width: 44px;
+  height: 44px;
+  border: 4px solid #f0f2f2 !important;
+  position: absolute;
+  left: -54px;
+  top: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+/* line 2993, ../sass/modelly.scss */
+.timeline li .user-avatar img {
+  width: 100%;
+  height: 100%;
+}
+/* line 2997, ../sass/modelly.scss */
+.timeline li .user-avatar.pull-left {
+  margin-right: 10px;
+}
+/* line 3000, ../sass/modelly.scss */
+.timeline li .user-avatar.pull-right {
+  margin-left: 10px;
+}
+/* line 3005, ../sass/modelly.scss */
+.timeline li .user-avatar.has-messages:after {
+  content: " ";
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  display: block;
+  background: #00e4ff;
+  position: absolute;
+  top: -3px;
+  left: -3px;
+}
+/* line 3020, ../sass/modelly.scss */
+.timeline li .photo {
+  width: 100%;
+  position: relative;
+  margin: 15px 0;
+}
+/* line 3025, ../sass/modelly.scss */
+.timeline li .photo img {
+  width: 100%;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+}
+/* line 3030, ../sass/modelly.scss */
+.timeline li .photo .status {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background-color: rgba(18, 36, 49, 0.7);
+  height: 26px;
+  line-height: 26px;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  -ms-border-radius: 13px;
+  -o-border-radius: 13px;
+  border-radius: 13px;
+  padding: 0 13px 0 10px;
+  font-size: 12px;
+  color: white;
+}
+/* line 3042, ../sass/modelly.scss */
+.timeline li .photo .status [class^="modellyicon-"] {
+  color: #de485e;
+  margin-right: 5px;
+  font-size: 10px;
+}
+
+/* SLIDER */
+/* line 3062, ../sass/modelly.scss */
+rzslider {
+  position: relative;
+  display: inline-block;
+  width: 99%;
+  height: 3px;
+  margin: 0;
+  vertical-align: middle;
+}
+/* line 3070, ../sass/modelly.scss */
+rzslider span {
+  position: absolute;
+  display: inline-block;
+  white-space: nowrap;
+}
+/* line 3075, ../sass/modelly.scss */
+rzslider span.base {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+/* line 3080, ../sass/modelly.scss */
+rzslider span.bar {
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+/* line 3086, ../sass/modelly.scss */
+rzslider span.bar.selection {
+  z-index: 1;
+  width: 0;
+  background: #00e4ff;
+}
+/* line 3092, ../sass/modelly.scss */
+rzslider span.pointer {
+  cursor: pointer;
+  padding: 10px 0px 10px 0px;
+  top: -25px;
+  z-index: 2;
+}
+/* line 3098, ../sass/modelly.scss */
+rzslider span.pointer:after {
+  background-color: #ffffff;
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-box-shadow: -3px 3px 4px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: -3px 3px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: -3px 3px 4px 0px rgba(0, 0, 0, 0.2);
+  content: "";
+  display: block;
+}
+/* line 3110, ../sass/modelly.scss */
+rzslider span.bubble {
+  display: none;
+}
+
+/* line 3117, ../sass/modelly.scss */
+.rzslider-container {
+  padding: 0;
+  margin-bottom: 10px;
+  padding-right: 50px !important;
+}
+/* line 3121, ../sass/modelly.scss */
+.rzslider-container .rzslider-value {
+  padding: 0;
+  text-align: right;
+  white-space: nowrap;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+/* line 3129, ../sass/modelly.scss */
+.rzslider-container .group-title {
+  padding-left: 70px;
+}
+
+/* line 3148, ../sass/modelly.scss */
+.popup {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(84, 96, 105, 0.7);
+  -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: white;
+  z-index: 2000;
+  color: #FFF;
+}
+/* line 3151, ../sass/modelly.scss */
+.popup .empty-list {
+  color: white !important;
+}
+/* line 3155, ../sass/modelly.scss */
+.popup.black {
+  background-color: rgba(18, 22, 25, 0.93);
+}
+/* line 3160, ../sass/modelly.scss */
+.popup .location .icon-bg-white {
+  background-color: rgba(255, 255, 255, 0.05);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  width: 36px;
+  border: solid 1px #434648 !important;
+}
+/* line 3169, ../sass/modelly.scss */
+.popup .location .name, .popup .location .place {
+  color: #FFF;
+}
+/* line 3174, ../sass/modelly.scss */
+.popup .status {
+  background-color: rgba(18, 36, 49, 0.7);
+  height: 26px;
+  padding: 5px 13px 5px 10px;
+  line-height: 26px;
+  -webkit-border-radius: 13px;
+  -moz-border-radius: 13px;
+  -ms-border-radius: 13px;
+  -o-border-radius: 13px;
+  border-radius: 13px;
+  font-size: 12px;
+  color: white;
+}
+/* line 3183, ../sass/modelly.scss */
+.popup .status [class^="modellyicon-"] {
+  color: #de485e;
+  margin-right: 5px;
+  font-size: 10px;
+}
+/* line 3190, ../sass/modelly.scss */
+.popup .notifications-list li {
+  border-bottom: none;
+}
+
+/* line 3195, ../sass/modelly.scss */
+.discovery-search {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-top: 43px;
+  background-color: rgba(84, 96, 105, 0.7);
+  -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: white;
+  z-index: 2000;
+}
+/* line 3209, ../sass/modelly.scss */
+.discovery-search:before {
+  border-bottom: 5px solid #abb0b5;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  content: " ";
+  left: auto;
+  right: 29px;
+  position: absolute;
+  top: -5px;
+  z-index: 2;
+}
+/* line 3221, ../sass/modelly.scss */
+.discovery-search .navbar {
+  margin-bottom: 0;
+  border: none;
+}
+/* line 3225, ../sass/modelly.scss */
+.discovery-search .navbar-collapse {
+  background-color: #FFF;
+}
+
+/* line 3233, ../sass/modelly.scss */
+.discovery-filters .group-title {
+  color: #FFFFFF;
+  font-size: 12px;
+  text-align: center;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+  margin: 20px 0 20px 0;
+  text-transform: uppercase;
+}
+/* line 3244, ../sass/modelly.scss */
+.discovery-filters.white .rzslider-container {
+  padding: 0px 70px 0px 10px !important;
+}
+/* line 3247, ../sass/modelly.scss */
+.discovery-filters.white .rzslider-container .group-title {
+  color: #7a8389;
+}
+/* line 3250, ../sass/modelly.scss */
+.discovery-filters.white .rzslider-container rzslider .bar {
+  background-color: #e3e6e7;
+}
+/* line 3252, ../sass/modelly.scss */
+.discovery-filters.white .rzslider-container rzslider .bar.selection {
+  background-color: #00e4ff;
+}
+/* line 3256, ../sass/modelly.scss */
+.discovery-filters.white .rzslider-container .rzslider-value {
+  color: #3b4448;
+  padding-right: 10px;
+}
+/* line 3263, ../sass/modelly.scss */
+.discovery-filters .btn-group {
+  width: 100%;
+}
+/* line 3266, ../sass/modelly.scss */
+.discovery-filters .btn-group .btn {
+  width: 50%;
+  height: 56px;
+  line-height: 56px;
+  padding: 0;
+  background-color: #FFF;
+  color: #3b4448;
+  text-align: center;
+  font-size: 18px;
+  -webkit-border-radius: 56px;
+  -moz-border-radius: 56px;
+  -ms-border-radius: 56px;
+  -o-border-radius: 56px;
+  border-radius: 56px;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+}
+/* line 3277, ../sass/modelly.scss */
+.discovery-filters .btn-group .btn i {
+  margin-right: 10px;
+  color: #00e4ff;
+}
+/* line 3282, ../sass/modelly.scss */
+.discovery-filters .btn-group .btn.active {
+  background-color: #00c6dd;
+  color: #FFF;
+}
+/* line 3285, ../sass/modelly.scss */
+.discovery-filters .btn-group .btn.active i {
+  color: #FFF;
+}
+/* line 3289, ../sass/modelly.scss */
+.discovery-filters .btn-group .btn.active:hover {
+  background-color: white !important;
+}
+/* line 3292, ../sass/modelly.scss */
+.discovery-filters .btn-group .btn.active.active:hover {
+  background-color: #00c6dd !important;
+}
+
+/* .blur */
+/* line 3302, ../sass/modelly.scss */
+.filter-blur {
+  filter: url(../img/blur.svg#blur);
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+}
+
+/* line 3316, ../sass/modelly.scss */
+.bg-blur .image-bg-helper:before {
+  margin: -7px;
+}
+/* line 3321, ../sass/modelly.scss */
+.bg-blur.image-bg .image-bg-helper {
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  -o-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+/* line 3326, ../sass/modelly.scss */
+.content-blurred {
+  margin-top: 64px;
+  padding: 0 1rem;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  opacity: 0.8;
+  z-index: 1026;
+}
+
+/* line 3338, ../sass/modelly.scss */
+.content-blurred .content {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+/* line 3345, ../sass/modelly.scss */
+.content-wrapper {
+  position: relative;
+  padding: 0 1rem;
+  z-index: 1;
+  height: 100%;
+  overflow: auto;
+  -webkit-backface-visibility: hidden;
+}
+
+/* line 3355, ../sass/modelly.scss */
+header {
+  display: block;
+  height: 59px;
+  left: 0;
+  overflow: hidden !important;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1300;
+}
+
+/* line 3365, ../sass/modelly.scss */
+momentpopup, .momentpopup {
+  display: none;
+  z-index: 2000;
+  overflow-y: auto;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 3376, ../sass/modelly.scss */
+.padding-bottom-rowsize {
+  padding-bottom: 58px;
+}
+
+/* line 3380, ../sass/modelly.scss */
+.no-margin {
+  margin: 0px;
+}
+
+/* line 3383, ../sass/modelly.scss */
+.margin-top-3 {
+  margin-top: 3px;
+}
+
+/* line 3387, ../sass/modelly.scss */
+.selectcontainer {
+  width: 0px;
+  position: relative;
+}
+
+/* line 3392, ../sass/modelly.scss */
+.selectvalue {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+/* line 3398, ../sass/modelly.scss */
+.selectdisplay {
+  position: absolute;
+  right: -50px;
+  top: 0px;
+  opacity: 0;
+  width: 100px;
+}
+
+/* line 3406, ../sass/modelly.scss */
+.input-w-edit {
+  padding-right: 30px;
+}
+/* line 3409, ../sass/modelly.scss */
+.input-w-edit:after {
+  font-family: 'modelly';
+  content: "\e60b";
+  color: #00e4ff;
+  position: absolute;
+  display: block;
+  right: 40px;
+}
+/* line 3418, ../sass/modelly.scss */
+.input-w-edit input {
+  border: 0 none;
+  height: 55px;
+  text-align: right;
+}
+
+/* line 3426, ../sass/modelly.scss */
+.homescreen {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  background-color: #FFF;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #5e5e66;
+}
+/* line 3434, ../sass/modelly.scss */
+.homescreen .close {
+  position: relative;
+  top: 15px;
+  right: 15px;
+  color: #4478fb !important;
+  opacity: 1;
+}
+/* line 3442, ../sass/modelly.scss */
+.homescreen h2 {
+  text-align: center;
+  margin-top: 10px;
+}
+/* line 3447, ../sass/modelly.scss */
+.homescreen p {
+  color: #5b5c5c;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+/* line 3455, ../sass/modelly.scss */
+.homescreen:after, .homescreen:before {
+  top: 100%;
+  left: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+/* line 3465, ../sass/modelly.scss */
+.homescreen:after {
+  border-color: rgba(255, 255, 255, 0);
+  border-top-color: #FFF;
+  border-width: 10px;
+  margin-left: -10px;
+}
+/* line 3472, ../sass/modelly.scss */
+.homescreen img.mod-icon-round {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  margin: auto auto;
+}
+/* line 3476, ../sass/modelly.scss */
+.homescreen div.ftr {
+  border-top: solid 1px #adadad;
+  width: 100%;
+  color: #333;
+  padding: 15px;
+  text-align: center;
+  font-family: "FuturaPT-Medium", Arial, Helvetica, sans-serif;
+}
+/* line 3484, ../sass/modelly.scss */
+.homescreen .icon-homescreen {
+  background-image: url("../img/svg/tap.svg");
+  display: inline-block;
+  height: 25px;
+  width: 22px;
+  position: relative;
+  top: 4px;
+  left: -2px;
+}
+
+@media screen and (min-width: 320px) {
+  /* line 3497, ../sass/modelly.scss */
+  .homescreen {
+    margin-left: -45%;
+    width: 90%;
+    left: 50%;
+  }
+  /* line 3502, ../sass/modelly.scss */
+  .homescreen p {
+    font-size: 16px;
+  }
+  /* line 3506, ../sass/modelly.scss */
+  .homescreen img.mod-icon-round {
+    width: 30%;
+    height: 30%;
+    max-width: 120px;
+    max-height: 120px;
+    margin-top: 10%;
+  }
+}
+/* line 3515, ../sass/modelly.scss */
+.clear-error {
+  bottom: 0px;
+  color: #de485e !important;
+  content: "\e608";
+  display: block;
+  font-family: "modelly";
+  font-size: 10px;
+  position: absolute;
+  right: 0px;
+  padding: 10px 10px 10px 15px;
+}
+/* line 3526, ../sass/modelly.scss */
+.clear-error:hover i {
+  color: #F00;
+}
+
+/* line 3531, ../sass/modelly.scss */
+.terms {
+  overflow: hidden;
+  overflow-y: scroll;
+  font-size: 17px;
+  font-family: "FuturaPTBook", Arial, Helvetica, sans-serif;
+  text-align: justify;
+  padding: 30px !important;
+}
+/* line 3539, ../sass/modelly.scss */
+.terms h3 {
+  font-family: "FuturaPT-Medium",Arial,Helvetica,sans-serif;
+  font-size: 17px;
+}
+/* line 3543, ../sass/modelly.scss */
+.terms ul {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+  margin: 0;
+}

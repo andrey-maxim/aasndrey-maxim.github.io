@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Modelly App</title>
+
+  <meta name="description" content="">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="cleartype" content="on">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/modelly.css" rel="stylesheet">
+</head>
+<body class="white topnav">
+<nav role="navigation" class="navbar navbar-fixed-top">
+      <div class="navbar-brand">Followers</div>
+      <div class="navbar-collapse">
+        <ul class="nav navbar-nav nav-pills pull-left">
+          <li><a href="#" id="menuu" class="btn icon"><i class="modellyicon-menu"></i></a></li>
+        </ul>
+        <ul class="nav navbar-nav nav-pills pull-right">
+          <li><a class="btn has-messages" href="#"><i class="modellyicon-gift"></i></a></li>
+        </ul>
+      </div>
+      <div class="header-panel small hidden">
+                    <ul class="inline-menu items-3">
+                        <li><a href="#"><i class="modellyicon-feed blue"></i> Newsfeed</a></li>
+                        <li><a href="#"><i class="modellyicon-discover blue"></i> Discovery</a></li>
+                        <li><a href="#"><i class="modellyicon-settings blue"></i> Settings </a></li>
+                    </ul>
+                </div>
+    </nav>
+<div class="container" id="main-container">
+    <div class="row">
+        <div class="col-xs-12">
+        		<div class="newsfeed-header">
+                        <img alt="" src="img/samples/photo-1.jpg"> you following <b>0</b> models :(        
+				</div>
+		</div>
+        <div class="col-xs-12 empty-list padding-40">
+               <p class="margin-bottom-28 margin-top-76"><i class="modellyicon-users blue size-3x"></i></p>
+               <p class="margin-bottom-28">You aren't Following<br>Any Model Yet</p>
+               <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittisat tincidunt</p>                           	
+         </div>
+         <div class="col-xs-12 margin-top-76 text-center">
+         	<a href="#" class="btn btn-lg btn-white btn-inline">Discover Models <i class="modellyicon-discover blue size-2x"></i></a>
+         </div>
+</div>
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript">
+		$(function() {
+
+		$("#menuu").on( "click", function() {		    
+		  $(".header-panel").toggleClass('hidden');
+		  if($("i",this).hasClass("modellyicon-menu")){ 
+		  	$("i",this).removeClass("modellyicon-menu").addClass("modellyicon-close");
+		  }else{
+			$("i",this).removeClass("modellyicon-close").addClass("modellyicon-menu");  
+		  }
+		});		
+
+});
+
+        </script>   
+</body>
+</html>
