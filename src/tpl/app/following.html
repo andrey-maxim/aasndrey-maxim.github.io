@@ -1,0 +1,18 @@
+<div class="row">
+    <div class="col-xs-12">
+
+        <div class="relative" id="userslist">
+            <ul class="list-items simple"> <!-- ng-repeat following -->
+                <li ng-repeat="model in following">
+                    <div class="user-avatar pull-left" ui-sref="app/profile({ id:model.id })"><img ng-src="{{model.avatar.thumbnail.url}}"></div>
+                    <a ng-show="!model.followRemoved" class="remove" ng-click="unfollow(model)"></a>
+                    <a ng-show="model.followRemoved" class="follow" ng-click="follow(model)">Follow</a>
+                    <div class="list-content ">
+                        <h4 class="item-name">{{model.username}} <i class="modellyicon-checkbox blue"></i></h4>
+                        <span class="item-info">{{model.birth_date | ageresolve}} years, {{model.moments_count}} moments</span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

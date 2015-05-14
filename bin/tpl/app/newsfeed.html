@@ -1,0 +1,74 @@
+<div class="row newsfeed-container" setwindowheight setwindowoffset="110" >
+    <div class="col-xs-12">
+        <div class="newsfeed-header" ng-click="openFollowing()">
+            <img alt="" ng-src="{{user.avatar.thumbnail.url}}" style="border-radius: 50%"> you following <b>{{user.followings_count}}</b> models
+        </div>
+    </div>
+    <div class="col-xs-12 scrollable-content" ng-show="news" scrollslider="this" scrolloffset="150">
+        <ul class="timeline">
+            <li ng-repeat="event in news">
+                <div class="user-avatar" ui-sref="app/profile({ id:event.model.id })"> <img ng-src="{{event.model.avatar.thumbnail.url}}"></div>
+                <h3 class="title">{{event.model.username}} {{getActionText(event)}}</h3>
+                <span class="date">{{event.created_at | dateresolve}}</span>
+                <div class="photo">
+                    <img ng-src="{{event.image.standard_resolution.url}}" ng-click="selectMoment(event)"/>
+
+                    <span ng-if="!event.gift" class="status" ng-click="like(event)">
+                        <i  class="modellyicon-hearth"></i>{{event.liked ? 'Liked': event.likes_count}}
+                    </span>
+
+                    <span ng-if="event.gift" class="status" ng-click="like(event)">
+                        <i class="modellyicon-thank"></i>{{event.liked ? 'Thanked' : 'Thank !'}}
+                    </span>
+                </div>
+                <div class="location" ng-if="event.place" ng-click="selectMoment(event,true)">
+                    <i class="modellyicon-pointer icon-bg-white blue pull-left"></i>
+                    <strong class="name">{{event.place}}</strong>
+                    <!-- no description data
+                    <span class="place">{{event.position.address}}</span> -->
+                </div>
+            </li>
+            <!-- for other actions ::
+            <li>
+                <div class="user-avatar"> <img src="img/samples/photo-girl-640x640.jpg" alt=""> </div>
+                <h3 class="title"><i class="modellyicon-gift"></i> bilyalovasveta just for you</h3>
+                <span class="date">7 minutes ago</span>
+                <div class="photo">
+                    <img src="img/samples/photo-girl-640x640.jpg">
+                               <span class="status">
+                                   <i class="modellyicon-thank"></i>Thanked
+                               </span>
+                </div>
+            </li>
+            <li>
+                <div class="user-avatar"> <img src="img/samples/photo-girl-640x640.jpg" alt=""> </div>
+                <h3 class="title">gorodgrexov posted new photo</h3>
+                <span class="date">7 minutes ago</span>
+                <div class="photo">
+                    <img src="img/samples/photo-girl-640x640.jpg">
+                               <span class="status">
+                                   <i class="modellyicon-hearth-full"></i>2784
+                               </span>
+                </div>
+                <div class="location">
+                    <i class="modellyicon-pointer icon-bg-white blue pull-left"></i>
+                    <strong class="name">Sweat Home</strong>
+                    <span class="place">Moscow, Kievskaya str.</span>
+                </div>
+            </li>-->
+
+        </ul>
+    </div>
+
+
+    <div ng-show="!news" class="col-xs-12 empty-list">
+        <p class="margin-bottom-28 margin-top-76"><i class="modellyicon-users blue size-3x"></i></p>
+        <p class="margin-bottom-28">You aren't Following<br>Any Model Yet</p>
+        <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittisat tincidunt</p>
+    </div>
+    <div ng-show="!news" class="col-xs-12 margin-top-32 text-center">
+        <a ui-sref="app/discover" class="btn btn-lg btn-white btn-inline">Discover Models <i class="modellyicon-discover blue size-2x"></i></a>
+    </div>
+
+
+</div>

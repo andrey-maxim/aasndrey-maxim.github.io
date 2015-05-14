@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html >
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Modelly 0.9.13</title>
+
+    <!-- meta :: -->
+
+    <meta name="description" content="">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="shortcut icon" href="img/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-icon-57x57-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-icon-72x72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-icon-114x114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-icon-144x144-precomposed.png" />
+
+
+    <!-- style :: -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/modelly.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- script :: base -->
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="libs/jquery.min.js"></script>
+    <script type="text/javascript" src="libs/jquery.transform2d.js"></script>
+    <script type="text/javascript" src="libs/underscore.js"></script>
+    <script type="text/javascript" src="libs/angular.min.js"></script>
+    <script type="text/javascript" src="libs/angular-ui-router.js"></script>
+    <script type="text/javascript" src="libs/utils.js"></script>
+    <!--
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    -->
+    <!-- components -->
+    <script src="libs/rzslider.min.js"></script>
+    <script src="libs/geolocation.js"></script>
+    <script src="libs/jquery.touchSwipe.js"></script>
+
+
+    <!-- app -->
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="services.js"></script>
+    <script type="text/javascript" src="ctrls.js"></script>
+    <script type="text/javascript">
+        angular.element(document.getElementsByTagName('head')).append(angular.element('<base href="' + window.location.pathname + '" />'));
+    </script>
+
+</head>
+<body ng-app="modelly"  ng-controller="App" ng-class="{topnav:hasNav , home:bgState==0 , white:bgState == 1 , grey:bgState == 2 }">
+
+    <!-- preloader -->
+    <div ng-if="preloader" style="width:100%;height: 100% ;z-index: 5000;background-color: #000000;opacity: 0.75;position: fixed;top:0px">
+        <div class="absolute full top"  >
+            <div class="col-xs-12 margin-top-50 text-center">
+                <p class="font-header">{{preloader}}</p>
+            </div>
+        </div>
+
+        <div class="absolute full top50 text-center">
+            <div class="col-xs-12 preloader">
+                <img src="img/preloader.png" >
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- menu -->
+    <div requirelogin ng-show="authOverlay" ></div>
+    <div menu ng-show="hasNav" useBlur ></div>
+
+    <!-- main view -->
+    <div ui-view class="container" ng-class="{'padding-0':(bgState==1 && !hasPadding)}" useBlur></div><!-- useBlur -->
+    <!-- moment popup -->
+    <div ng-controller="MomentPopupCtrl" momentpopup class="momentpopup" style="display: none;"></div>
+
+    <div setuppopup class="momentpopup" style="position: fixed;z-index: 2100;top:0px ; left:0px;width: 100%;height: 100%;display: none"></div>
+
+    <div termspopup style="display: none;" ></div>
+<!-- class="momentpopup" style="position: fixed;z-index: 2100;top:0px ; left:0px;width: 100%;height: 100%;display: none" -->
+
+    <!-- bookmark -->
+    <div ng-if="bookmark" class="homescreen">
+        <a class="close" ng-click="closeBookmark()"><i class="modellyicon-close"></i></a>
+        <div class="clearfix"></div>
+        <p><img src="img/apple-icon-144x144-precomposed.png" class="mod-icon-round" /></p>
+        <h2 class="dark padding-top-30">Install Modelly App</h2>
+        <p class="padding-40 padding-top-0 padding-bottom-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittis</p>
+        <div class="ftr">Tap <i class="icon-homescreen"></i> and then 'Add to Home Screen'</div>
+    </div>
+
+</body>
+</html>

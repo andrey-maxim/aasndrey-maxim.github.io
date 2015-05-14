@@ -1,0 +1,47 @@
+<div class="row absolute full top">
+    <div class="col-xs-12 margin-top-32">
+        <h1 class="logo full">MODELLY</h1>
+    </div>
+</div>
+
+<div class="row absolute full top25">
+    <form role="form">
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <span ng-show="hasError" class="error-tooltip">
+                    <span class="error-tooltip-content">{{hasEmailError}}<br ng-if="hasEmailError"/>{{hasPasswordError}}</span>
+                </span>
+            </div>
+        </div>
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <a class="clear-error" ng-click="clearEmail()" ng-if="isWrongEmail"><i class="modellyicon-close"></i></a>
+                <input type="email" class="form-control line" placeholder="Email" ng-model="auth.login"/>
+            </div>
+        </div>
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <a class="clear-error" ng-click="clearPass()" ng-if="isWrongPassword"><i class="modellyicon-close"></i></a>
+                <input type="password" class="form-control line" placeholder="Password" ng-model="auth.password"/>
+            </div>
+        </div>
+    </form>
+    <div class="col-xs-12 margin-top-40 margin-bottom-40 text-center">
+        <a ui-sref="auth/remind" class="white font-book">Forgot your password?</br>Remind</a>
+    </div>
+    <div class="col-xs-4 margin-bottom-8 text-left">
+        <a ui-sref="start" class="blue padding-10">Back</a>
+    </div>
+
+    <div class="col-xs-4 margin-bottom-8 text-left">
+        <!-- seems to be useless here
+        <ul class="progress">
+            <li class="active"></li>
+            <li></li>
+            <li></li>
+        </ul> -->
+    </div>
+    <div class="col-xs-4 margin-bottom-8 text-right">
+        <a ng-click="signin()" ng-class="{blue:canLogin}" class="padding-10">Log In</a>
+    </div>
+</div>

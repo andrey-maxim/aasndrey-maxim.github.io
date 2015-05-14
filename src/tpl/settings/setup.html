@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-xs-12">
+        <div class="photo320 info">
+            <img ng-src="{{photo}}">
+            <div class="account-left">{{user.userName}}</div>
+            <div class="account-right"><a ng-click="changePhoto()" class="btn-edit"><i class="modellyicon-edit blue"></i></a></div>
+        </div>
+    </div>
+    <div class="col-xs-12">
+        <ul class="account-menu full">
+            <li ng-if="userType == 1"><a class="more" ui-sref="settings/discover" ><i class="modellyicon-discover blue"></i>Discovery Settings</a></li>
+            <li ng-if="userType == 2"><a class="more" ui-sref="settings/info" ><i class="modellyicon-profile blue"></i>My Info</a></li>
+            <li><a class="more" ui-sref="settings/account"><i class="modellyicon-account blue"></i>My Account</a></li>
+            <li ng-if="userType == 2"><a class="more" ui-sref="settings/secrets"><i class="modellyicon-strawberry blue"></i>My Secrets</a></li>
+            <li><a class="more" ui-sref="settings/about" ><i class="modellyicon-book blue"></i>About App</a></li>
+            <li><a class="more" ng-click="logout()" ><i class="modellyicon-logout blue"></i>Log Out</a></li>
+        </ul>
+    </div>
+</div>

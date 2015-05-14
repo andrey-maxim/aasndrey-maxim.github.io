@@ -1,0 +1,91 @@
+<div class="row">
+    <div class="col-xs-12">
+        <div class="photo320 info">
+            <img ng-src="{{profile.avatar.standard_resolution.url}}" />
+            <ul class="stats">
+                <li>{{profile.followers_count}}<small>Followers</small></li>
+                <li>{{profile.moments_count}}<small>Moments</small></li>
+                <li><small>{{profile.place}}</small></li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-xs-12">
+        <ul class="flat-menu">
+            <li ng-class="{active:option==0}" ng-click="option = 0">Moments</li>
+            <li ng-class="{active:option==1}" ng-click="option = 1">About</li>
+        </ul>
+    </div>
+    <div class="col-xs-12" id="option1" ng-show="option == 0">
+
+        <ul class="timeline">
+            <li ng-repeat="moment in moments">
+                <div class="user-avatar"> <img alt="" ng-src="{{profile.avatar.thumbnail.url}}"> </div>
+                <h3 class="title">you posted new photo</h3>
+                <span class="date">{{moment.created_at | dateresolve}}</span>
+                <div class="photo" ng-click="momentSetup(moment)">
+                    <img ng-src="{{moment.image.standard_resolution.url}}">
+                               <span class="status">
+                                   <i class="modellyicon-hearth"></i>{{moment.likes_count}}
+                               </span>
+                </div>
+
+
+                <div class="location" ng-if="moment.place">
+                    <i class="modellyicon-pointer icon-bg-white blue pull-left"></i>
+                    <strong class="name">{{moment.place}}</strong>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="col-xs-12 about-me padding-left-20 padding-right-20" id="option2" ng-show="option == 1">
+        <h4 class="title" ng-click="openSettingsInfo()">
+            <i class="modellyicon-profile blue"></i>
+            My info
+        </h4>
+        <ul class="parms padding-top-32">
+            <li>
+                <div class="parm">From</div>
+                <div class="value">{{profile.country | countryName }}</div>
+            </li>
+            <li>
+                <div class="parm">I Speak</div>
+                <div class="value">Russian, English</div>
+            </li>
+            <li>
+                <div class="parm">Age</div>
+                <div class="value">22</div>
+            </li>
+            <li>
+                <div class="parm">Height</div>
+                <div class="value">{{profile.height}} сm</div>
+            </li>
+        </ul>
+        <h4 class="title" ng-click="openSettingsSecrets()">
+            <i class="modellyicon-strawberry blue"></i>
+            My secrets
+        </h4>
+        <ul class="parms padding-bottom-20">
+            <li class="parameter">
+                <div class="parm">Breast Size</div>
+                <div class="value">{{profile.breast}}</div>
+            </li>
+            <li class="parameter">
+                <div class="parm">Shaved</div>
+                <div class="value">{{profile.shaved}}</div>
+            </li>
+            <li class="parameter">
+                <div class="parm">Tatoos</div>
+                <div class="value">{{profile.tatoos ? 'Yes' : 'No'}}</div>
+            </li>
+            <li class="parameter">
+                <div class="parm">Piercing</div>
+                <div class="value">{{profile.piercing ? 'Yes' : 'No'}}</div> <!-- ? profile.piercing:'No' -->
+            </li>
+
+        </ul>
+    </div>
+    <div class="col-xs-12 users-share">
+            <div class="blue pull-left"><a ng-click="addPicture()"><i class="modellyicon-camera blue"></i> Add Moment</a></div>
+            <div class="blue pull-right" ui-sref="model/searching({ for: 'position' })"><a >Update position <i class="modellyicon-pointer blue"></i></a></div>
+    </div>
+</div>

@@ -1,0 +1,47 @@
+<div class="row absolute full top">
+    <div class="col-xs-8 col-xs-offset-2 margin-top-32 text-center">
+        <p class="font-header">Creat any username what you want<br> and choose avatar.</p>
+    </div>
+</div>
+
+<div class="row absolute full top25">
+    <form role="form">
+        <div class="col-xs-12">
+            <div class="form-group">
+                <div class="user-avatar">
+                    <!-- no image -->
+                    <div ng-if="!imgsrc"  ng-click="selectImage()" style="width: 100%;height: 100%;"></div>
+                    <!-- image display -->
+                    <div ng-if="imgsrc" ng-click="selectImage()" ng-style="imageStyle" style="width:71px;height:71px;border-radius: 50%;text-align: center;background-repeat: no-repeat;background-position: center;"></div>
+                    <div ng-if="imgsrc" class="modellyicon-close remove" ng-click="removeImage()"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <span ng-show="hasError" class="error-tooltip"><span class="error-tooltip-content">{{hasError}}</span></span>
+            </div>
+        </div>
+        <div class="col-xs-12 margin-top-20 margin-bottom-66">
+            <div class="form-group has-feedback has-feedback-left">
+                <a class="clear-error" ng-click="clearName()" ng-if="hasError"><i class="modellyicon-close"></i></a>
+                <input type="text" class="form-control line"  placeholder="Username" ng-model="displayName" ng-change="updateDisplayName()" />
+            </div>
+        </div>
+        <div class="col-xs-4 text-left">
+            <a ui-sref="auth/newuser" class="blue padding-10">Back</a>
+        </div>
+        <div class="col-xs-4 text-center">
+            <ul class="progress">
+                <li></li>
+                <li class="active"></li>
+                <li ng-show="isModel"></li>
+                <li ng-show="isModel"></li>
+                <li ng-show="isModel"></li>
+            </ul>
+        </div>
+        <div class="col-xs-4 text-right">
+            <a ng-click="process()" class="padding-10" ng-class="{blue:canProceed}">Next</a>
+        </div>
+    </form>
+</div>

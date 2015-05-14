@@ -1,0 +1,45 @@
+<div class="row absolute full top">
+    <div class="col-xs-12 margin-top-32 text-center" ng-if="step==1">
+        <p class="font-header">A confirmation cade was<br>
+            sent to your phone</p>
+    </div>
+
+
+
+</div>
+
+<div>
+    <div class="row absolute full top25">
+        <form role="form">
+            <div class="col-xs-12 margin-top-20">
+                <div class="form-group">
+                <span ng-show="smsError" class="error-tooltip">
+                    <span class="error-tooltip-content">{{smsError}}</span>
+                </span>
+                </div>
+            </div>
+            <div class="col-xs-12 margin-top-20 margin-bottom-66">
+                <div class="form-group">
+                    <a class="clear-error" ng-click="clearSms()" ng-if="smsError"><i class="modellyicon-close"></i></a>
+                    <input type="text" class="form-control line" ng-model="code" placeholder="Confirmation Code" />
+                </div>
+            </div>
+            <div class="col-xs-4 text-left">
+                <a ui-sref="auth/code" class="blue padding-10">Back</a>
+            </div>
+            <div class="col-xs-4 text-center">
+                <ul class="progress">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li class="active"></li>
+                    <li></li>
+                </ul>
+            </div>
+            <div class="col-xs-4 text-right">
+                <a ng-click="proceed()"  class="blue padding-10">Finish</a>
+            </div>
+        </form>
+
+    </div>
+</div>

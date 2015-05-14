@@ -1,0 +1,51 @@
+<div class="row absolute full top">
+    <div class="col-xs-12 margin-top-32 text-center">
+        <p class="font-header">Choose your subscription plan</p>
+    </div>
+</div>
+
+<div class="row absolute full top20">
+
+    <div class="col-xs-12 padding-0 margin-bottom-66">
+
+        <div class="swipe">
+            <div class="item" ng-repeat="sub in subscriptions" subscription="{{$index}}" style="width: 75%;">
+                <h2 class="text-center">{{sub.name}}</h2>
+                <ul class="list-no-bullet sub-plan">
+                    <li>
+                        <i class="modellyicon-wave"></i> {{sub.description}}
+                    </li>
+                    <li>
+                        <i class="modellyicon-leaf"></i>Aliquam consectetur
+                    </li>
+                    <li>
+                        <i class="modellyicon-umbrella"></i>Mauris et tristique
+                    </li>
+                </ul>
+                <p class="price">
+                    {{sub.price_in_cents}} €
+                    <span>per month</span>
+                </p>
+                <p>
+                    <a class="btn btn-lg " ng-click="selectPlan(sub)"> Choose This Plans </a>
+                </p>
+            </div>
+        </div>
+
+
+        <ul class="progress">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li class="active"></li>
+        </ul>
+    </div>
+
+    <div class="row absolute full bottom">
+        <div class="col-xs-12 text-left">
+            <a ui-sref="auth/code" class="blue padding-20">Close</a>
+        </div>
+    </div>
+
+</div>

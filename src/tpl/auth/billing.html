@@ -1,0 +1,38 @@
+<div class="row absolute full top">
+    <div class="col-xs-8 col-xs-offset-2 margin-top-32 text-center">
+        <p class="font-header">Modelly<br>monthly subscription</p>
+    </div>
+</div>
+
+<div class="row absolute full top25">
+    <form role="form">
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <input type="text" class="form-control line" placeholder="Card Holder" />
+            </div>
+        </div>
+        <div class="col-xs-12">
+            <div class="form-group has-feedback has-feedback-left">
+                <input type="text" class="form-control line" placeholder="Card Number" />
+                <i class="form-control-feedback modellyicon-card"></i>
+            </div>
+        </div>
+        <div class="col-xs-6 padding-right-10">
+            <div class="form-group">
+                <input type="text" class="form-control line" placeholder="MM/YY" />
+            </div>
+        </div>
+        <div class="col-xs-6 padding-left-10 margin-bottom-66">
+            <div class="form-group">
+                <span class="error-tooltip" ng-show="errorCVC"><span class="error-tooltip-content">Wrong CVC code</span></span>
+                <input type="text" class="form-control line" ng-model="cvc" placeholder="CVC" ng-class="{error:isWrongCvc}" />
+            </div>
+        </div>
+        <div class="col-xs-6 margin-bottom-8 text-left">
+            <a ui-sref="auth/subscription" class="blue padding-10">Back</a>
+        </div>
+        <div class="col-xs-6 margin-bottom-8 text-right">
+            <a ng-click="proceed()" class="blue padding-10">Pay 8.00 €</a>
+        </div>
+    </form>
+</div>

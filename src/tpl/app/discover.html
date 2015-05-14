@@ -1,0 +1,46 @@
+<div class="row" ng-show="models">
+    <div class="col-xs-12 text-center" ng-if="models.length == 0">
+        <p class="margin-bottom-28 margin-top-76"><i class="modellyicon-users blue size-3x"></i></p>
+        <a class="" style="color: #3b4448">No more models to display.</a>
+    </div>
+
+    <div class="col-xs-12" ng-if="models.length != 0">
+
+        <div class="model-cards margin-top-36">
+
+            <div class="model-card" id="card2">
+                <header class="top">
+                    <div class="pull-left">
+                        <i class="modellyicon-range blue"></i>{{models[p2].distance | mathround }} km
+                    </div>
+                    <div class="pull-right">
+                        <i class="modellyicon-moments blue"></i>{{models[p2].moments_count}}
+                        <i class="modellyicon-users blue"></i>{{models[p2].followers_count}}
+                    </div>
+                </header>
+                <a ng-click="displayProfile()" class="btn-more"><i class="modellyicon-dots"></i></a>
+                <img src="{{models[p2].avatar.standard_resolution.url}}" class="photo">
+            </div>
+
+            <div class="model-card" id="card1">
+                <header class="top">
+                    <div class="pull-left">
+                        <i class="modellyicon-range blue"></i>{{models[p1].distance | mathround }} km
+                    </div>
+                    <div class="pull-right">
+                        <i class="modellyicon-moments blue"></i>{{models[p1].moments_count}}
+                        <i class="modellyicon-users blue"></i>{{models[p1].followers_count}}
+                    </div>
+                </header>
+                <a ng-click="displayProfile()" class="btn-more"><i class="modellyicon-dots"></i></a>
+                <img src="{{models[p1].avatar.standard_resolution.url}}" class="photo">
+            </div>
+
+        </div>
+    </div>
+    <!-- follow and next -->
+    <div class="col-xs-12 text-center margin-top-26" ng-if="models.length != 0">
+        <a class="btn btn-lg btn-white btn-inline btn-discover margin-right-6" ng-click="follow()">{{followText()}} <i class="modellyicon-checkbox circle blue"></i></a>
+        <a class="btn btn-lg btn-white btn-inline btn-discover margin-left-6" ng-click="next()">Next <i class="modellyicon-next circle red"></i></a>
+    </div>
+</div>

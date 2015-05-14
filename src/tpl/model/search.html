@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-xs-12">
+        <ul class="list-items simple">
+            <li ng-click="create()"  ng-show="isTyping">
+                <i class="modellyicon-pointer icon-bg-white blue pull-left"></i>
+                    <span class="list-content">
+                        <h4 class="item-name">Create {{typing}}</h4>
+                        <span class="item-info">Create a Custom Place</span>
+                    </span>
+            </li>
+            <li ng-repeat="item in found" ng-click="select(item)">
+                <span class="list-content">
+                    <h4 class="item-name">{{item.name}}</h4>
+                    <span class="item-info">{{item.location.formattedAddress.join(',')}}</span>
+                </span>
+            </li>
+        </ul>
+    </div>
+</div>

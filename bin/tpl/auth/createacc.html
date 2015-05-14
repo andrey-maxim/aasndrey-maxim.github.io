@@ -1,0 +1,53 @@
+<div class="row absolute full top">
+    <div class="col-xs-8 col-xs-offset-2 margin-top-32 text-center">
+        <p class="font-header"><b>User Account</b></p>
+        <p class="font-header">Lorem ipsum dolor sit amet, cons adipiscing elit. Integer commoe, non vulputate massanon</p>
+    </div>
+</div>
+
+<div class="row absolute full top25">
+    <form role="form">
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <span ng-show="hasError" class="error-tooltip">
+                    <span class="error-tooltip-content">{{hasEmailError}}<br ng-if="hasEmailError"/>{{hasPasswordError}}</span>
+                </span>
+            </div>
+        </div>
+        <div class="col-xs-12 margin-top-20">
+            <div class="form-group">
+                <a class="clear-error" ng-click="clearEmail()" ng-if="isWrongEmail"><i class="modellyicon-close"></i></a>
+                <input type="email" class="form-control line" placeholder="Email" ng-model="auth.email"/>
+            </div>
+        </div>
+        <div class="col-xs-12 margin-top-20 margin-bottom-66">
+            <div class="form-group">
+                <a class="clear-error" ng-click="clearPass()" ng-if="isWrongPassword"><i class="modellyicon-close"></i></a>
+                <input type="password" class="form-control line" placeholder="Password" ng-model="auth.password"/>
+            </div>
+        </div>
+        <div class="col-xs-4 margin-bottom-8 text-left">
+            <a ui-sref="start" class="blue padding-10">Back</a>
+        </div>
+
+
+        <!-- create acc progress : -->
+        <div class="col-xs-4 margin-bottom-8 text-left">
+            <ul class="progress">
+                <li class="active"></li>
+                <li></li>
+                <li ng-show="isModel"></li>
+                <li ng-show="isModel"></li>
+                <li ng-show="isModel"></li>
+            </ul>
+        </div>
+
+
+
+
+        <div class="col-xs-4 margin-bottom-8 text-right">
+            <a ng-click="proceed()" ng-class="{blue:canRegister}" class="padding-10">Next</a>
+        </div>
+    </form>
+
+</div>

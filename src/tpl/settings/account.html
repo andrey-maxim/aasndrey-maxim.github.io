@@ -1,0 +1,72 @@
+<nav role="navigation" class="navbar transparent">
+    <div class="navbar-collapse">
+        <ul class="nav navbar-nav nav-pills pull-left">
+            <li><a ui-sref="settings/setup" class="btn icon"><i class="modellyicon-arrow-left"></i></a></li>
+        </ul>
+    </div>
+</nav>
+
+
+
+<div class="row" ng-if="user.type == 'Model'">
+    <div class="col-xs-12 empty-list padding-40 padding-top-24">
+        <p class="margin-bottom-20"><i class="modellyicon-ribbon blue size-3x"></i></p>
+        <p class="margin-bottom-20">Account Settings</p>
+    </div>
+    <div class="col-xs-12">
+        <div class="menu-title">subscription</div>
+        <ul class="account-menu round" ng-click="changeSubscription()">
+            <li>
+                <div class="slabel"><i class="modellyicon-plan black"></i></div>
+                <div class="svalue">Macho Plan @ 49€ /mo <a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+            </li>
+        </ul>
+        <p class="text-center font-book margin-top-20 dark">Your next payment is<br>49.00 € on August 30, 2014</p>
+        <p class="text-center margin-top-20"><a href="#" class="underline dark" ng-click="cancelSubscription()">Cancel Subscription</a></p>
+    </div>
+    <div class="col-xs-12">
+        <div class="menu-title">Billing details</div>
+        <ul class="account-menu round">
+            <li>
+                <div class="slabel"><i class="modellyicon-card black"></i></div>
+                <div class="svalue"><div class="input-w-edit"><input type="text" ng-model="billing" class="pull-right"/></div></div>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12 margin-top-10">
+
+        <div class="menu-title">Account</div>
+        <ul class="account-menu round">
+            <li>
+                <div class="slabel"><i class="modellyicon-phone black"></i></div>
+                <div class="svalue">
+                    <div class="input-w-edit">
+                        <input class="pull-right" ng-blur="phoneEditEnd()" ng-model="phone" type="text"/>
+                    </div>
+                </div>
+
+                <!--
+                <div class="svalue">(+ {{phoneProxy}})<input ng-blur="phoneEditEnd()" ng-model="user.phone" class="editInput" /><a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                -->
+            </li>
+            <li>
+                <div class="slabel"><i class="modellyicon-mail black"></i></div>
+                <div class="svalue">
+                    <div class="input-w-edit">
+                        <input class="pull-right" ng-blur="emailEdit()" ng-model="email"/>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="slabel"><i class="modellyicon-key black"></i></div>
+                <div class="svalue">
+                    <div class="input-w-edit">
+                        <input type="password" class="pull-right" ng-blur="passwordEdit()" ng-model="password"/>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

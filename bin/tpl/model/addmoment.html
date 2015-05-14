@@ -1,0 +1,55 @@
+<div class="row">
+<div class="col-xs-12" >
+    <div class="photo320" ng-show="position == null"><img ng-src="{{image}}" /></div>
+    <div class="gmap" id="map" ng-show="position"></div>
+</div>
+<div class="col-xs-12 padding-bottom-rowsize">
+
+<div class="wrapper">
+    <div class="location" ng-click="addLocation()">
+        <i class="modellyicon-pointer icon-bg-white blue pull-left"></i>
+        <strong class="name">{{position.name}}</strong>
+        <span class="place">{{position.location.formattedAddress.join(',')}}</span>
+    </div>
+</div>
+<ul class="flat-menu">
+    <li ng-class="{active:option==0}" ng-click="option=0">To Followers</li>
+    <li ng-class="{active:option==1}"  ng-click="option=1">Direct To Person</li>
+</ul>
+
+<div class="bg-white padding-left-20 padding-right-20 relative" ng-show="option==1">
+<ul class="alphabet" style="display: none" >
+    <li ng-repeat="l in letters" >{{l}}</li>
+</ul>
+<ul class="list-items simple">
+    <li ng-repeat="user in followers" ng-click="select(user)">
+        <div class="user-avatar pull-left"><img ng-src="{{ user.avatar.thumbnail.url }}" /></div>
+        <div class="circle-checkbox margin-right-16 margin-right-16 pull-right"  ng-class="{selected:selectedIds[user.id]}"><span></span></div>
+        <div class="list-content">
+            <h4 class="item-name">{{user.username}}</h4>
+            <span class="item-info">{{user.birth_date ? user.birth_date + ' years' :''}}</span>
+        </div>
+    </li>
+
+</ul>
+</div>
+
+</div>
+
+</div>
+<div class="col-xs-12 users-share">
+    <div class="text-center" ng-show="option == 0">
+        <a ng-click="share()" class="btn icon blue">Share To Followers <i class="modellyicon-arrow-right blue"></i></a>
+    </div>
+    <div ng-show="option == 1">
+        <div class="pull-left">
+            <p class="pull-left padding-right-10">To:</p>
+            <ul class="pull-left"><!-- swipe here -->
+                <li ng-repeat="user in selected"><img ng-src="{{ user.avatar.thumbnail.url}}" alt=""/></li>
+            </ul>
+        </div>
+        <div class="pull-right">
+            <a ng-click="shareDirect()" class="btn icon">Share <i class="modellyicon-arrow-right blue"></i></a>
+        </div>
+    </div>
+</div>

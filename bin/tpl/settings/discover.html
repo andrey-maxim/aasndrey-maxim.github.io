@@ -1,0 +1,46 @@
+
+<nav role="navigation" class="navbar transparent">
+    <div class="navbar-collapse">
+        <ul class="nav navbar-nav nav-pills pull-left">
+            <li><a ui-sref="settings/setup" class="btn icon"><i class="modellyicon-arrow-left"></i></a></li>
+        </ul>
+    </div>
+</nav>
+
+
+<div class="col-xs-12 empty-list padding-40 padding-top-24">
+    <p class="margin-bottom-20"><i class="modellyicon-discover blue size-3x"></i></p>
+    <p class="margin-bottom-20">Discovery Settings</p>
+    <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittis at tincidunt</p>
+</div>
+<div class="col-xs-12 padding-20">
+    <div id="dfilters" class="discovery-filters white">
+        <div class="group-title">I’m searching</div>
+        <div class="btn-group margin-bottom-10" role="group" aria-label="...">
+            <button type="button" class="btn" ng-class="{active:lookingFor == 1}" ng-click="lookingFor = 1"><i class="modellyicon-user-male"></i>Male</button>
+            <button type="button" class="btn" ng-class="{active:lookingFor == 2}" ng-click="lookingFor = 2"><i class="modellyicon-user-female"></i>Female</button>
+        </div>
+
+        <div class="col-xs-12 rzslider-container">
+            <div class="group-title">Whithin</div>
+            <rzslider
+                    rz-slider-floor="1"
+                    rz-slider-ceil="800"
+                    rz-slider-model="range"
+                    rz-slider-translate="translate">
+            </rzslider>
+            <div class="rzslider-value">{{range}} km</div>
+        </div>
+        <div class="col-xs-12 rzslider-container">
+            <div class="group-title">age up to</div>
+            <rzslider
+                    rz-slider-floor="18"
+                    rz-slider-ceil="70"
+                    rz-slider-model="minAge"
+                    rz-slider-high="maxAge"
+                    rz-slider-step="1">
+            </rzslider>
+            <div class="rzslider-value">{{minAge}}-{{maxAge}}</div>
+        </div>
+    </div>
+</div>

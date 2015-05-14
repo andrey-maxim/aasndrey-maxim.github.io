@@ -1,0 +1,11 @@
+{
+  "name":"Modelly",
+  "dependencies":{
+    "gulp":"latest",
+    "gulp-uglify":"latest",
+    "gulp-concat":"latest",
+    "gulp-continuous-concat":"latest",
+    "gulp-watch":"latest",
+    "angular":"latest"
+  }
+}

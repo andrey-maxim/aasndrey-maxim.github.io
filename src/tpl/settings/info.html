@@ -1,0 +1,80 @@
+<nav role="navigation" class="navbar transparent">
+    <div class="navbar-collapse">
+        <ul class="nav navbar-nav nav-pills pull-left">
+            <li><a ng-click="saveAndReturn()" class="btn icon"><i class="modellyicon-arrow-left"></i></a></li>
+        </ul>
+    </div>
+</nav>
+
+
+<div class="row">
+    <div class="col-xs-12 empty-list padding-40 padding-top-24">
+        <p class="margin-bottom-20"><i class="modellyicon-profile blue size-3x"></i></p>
+        <p class="margin-bottom-20"><b>My Info</b></p>
+        <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittis at tincidunt</p>
+    </div>
+    <div class="col-xs-12 margin-top-10">
+        <ul class="account-menu round">
+            <li>
+                <div class="slabel">Nickname</div>
+                <div class="svalue">
+                    <a class="edit pull-right"><i class="modellyicon-edit blue"></i></a>
+                    <div class="pull-right selectcontainer">
+                        <input ng-blur="editNameEnd()" ng-model="username" class="text-right pull-right editInput selectvalue" ng-class="{'text-danger':nameError}"  />
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="slabel">Sex</div>
+                <div class="svalue">
+                    <a class="edit pull-right"><i class="modellyicon-edit blue"></i></a>
+                    <div class="pull-right selectcontainer" >
+                        <div class="selectvalue">{{profile.sex}}</div>
+                        <select class="text-right pull-right editInput selectdisplay" ng-model="profile.sex">
+                            <option value="female">female</option>
+                            <option value="male">male</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!--
+                <input ng-model="profile.sex" class="editInput" /><a href="#" class="edit pull-right"><i class="modellyicon-edit blue"></i></a></div>
+                -->
+            </li>
+            <li>
+                <div class="slabel">Birthdate</div>
+                <div class="svalue">
+                    <a class="edit pull-right"><i class="modellyicon-edit blue"></i></a>
+                    <div class="pull-right selectcontainer" >
+                        <input placeholder="YYYY-MM-DD" ng-model="profile.birth_date" ng-class="{'text-danger':dateError}" class="text-right pull-right editInput selectvalue"/>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="slabel">From</div>
+                <div class="svalue">
+                    <a class="edit pull-right"><i class="modellyicon-edit blue"></i></a>
+                    <div class="pull-right selectcontainer">
+                        <div class="selectvalue">{{profile.country | countryName}}</div>
+                        <select class="text-right pull-right editInput selectdisplay" ng-model="profile.country">
+                            <option value="default">Select Country</option>
+                            <option ng-repeat="c in countryList" value="{{c.alpha2}}">{{c.name}}</option>
+                        </select>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="slabel">I Speak</div>
+                <div class="svalue">
+                    <a class="edit pull-right"><i class="modellyicon-edit blue"></i></a>
+                    <div class="pull-right selectcontainer" >
+                        <input ng-model="profile.languages" class="text-right pull-right editInput selectvalue"/>
+                    </div>
+                </div>
+                <!--
+
+                -->
+            </li>
+        </ul>
+    </div>
+</div>

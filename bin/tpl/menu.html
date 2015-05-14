@@ -1,0 +1,113 @@
+<nav role="navigation" class="navbar navbar-fixed-top" >
+
+    <!--
+    popups ids :: open(id);
+    0 menu :: hasMenu
+    1 notification list :: hasNofifyList
+    2 discover settings :: hasDiscoverMenu
+    3 user serch :: hasSearchPopup
+    -->
+    <div class="navbar-brand">{{title}}</div>
+
+    <div class="navbar-collapse">
+        <!-- left top elements :: -->
+        <ul class="nav navbar-nav nav-pills pull-left">
+            <li ng-show="hasSearch"><a ng-click="open(3)" class="btn"><i class="modellyicon-search"></i></a></li>
+            <li ng-show="hasOptions"><a ng-click="open(0)" class="btn icon"><i class="modellyicon-menu"></i></a></li>
+            <li ng-show="hasNotif && !hasNotifList"><a ng-click="open(1)" class="btn" ng-class="{'has-messages':notificationList}"><i class="modellyicon-bell"></i></a></li>
+            <li ng-show="hasReturn"><a ng-click="triggerReturn()" class="btn icon"><i class="modellyicon-arrow-left"></i></a></li>
+            <li ng-show="hasNotifList"><a ng-click="open()" class="btn icon"><i class="modellyicon-close"></i></a></li>
+
+            <li ng-show="hasInput"><span class="noUI-borders">@</span><input id="SearchInput" type="text" class="noUI-borders margin-top-3 margin-left-10" value="" ng-model="menuInput" placeholder="search for ..." /></li>
+        </ul>
+        <!-- right side buttons -->
+        <ul class="nav navbar-nav nav-pills pull-right">
+            <li ng-show="hasClose"><a ng-click="triggerClose()" class="btn"><i class="modellyicon-close"></i></a></li>
+            <li ng-show="hasSettings"><a ui-sref="settings/setup" class="btn"><i class="modellyicon-settings"></i></a></li>
+            <li ng-show="hasDiscover"><a ng-click="open(2)"  class="btn"><i class="modellyicon-filter"></i></a></li>
+            <li ng-show="hasDiscoverSearch"><a ng-click="open(3)" class="btn"><i class="modellyicon-search"></i></a></li>
+            <li ng-show="hasGifts"><a class="btn has-messages" ui-sref="app/gifts"><i class="modellyicon-gift"></i></a></li>
+        </ul>
+    </div>
+
+    <!-- drop menu -->
+    <div class="header-panel small" ng-show="hasMenu">
+        <ul class="inline-menu items-3" ng-click="open()">
+            <li><a ui-sref="app/newsfeed"><i class="modellyicon-feed blue"></i> Newsfeed</a></li>
+            <li><a ui-sref="app/discover"><i class="modellyicon-discover blue"></i> Discovery</a></li>
+            <li><a ui-sref="settings/setup"><i class="modellyicon-settings blue"></i> Settings </a></li>
+        </ul>
+    </div>
+
+    <!-- notification list  -->
+    <div class="header-panel" ng-show="hasNotifList" id="NotificationList">
+        <div  ng-show="notificationList && notificationList.length">
+        <ul class="notifications-list" style="margin: 0px 20px 0px 20px;">
+            <li ng-repeat="notf in notificationList">
+                <div class="user-avatar"> <img ng-src="{{notf.from.avatar.thumbnail.url}}"> </div>
+                <div class="content">
+                    <h4>{{notf.from.username}} liked your photo</h4>
+                    <small ng-if="notf.from.birth_date"><i class="modellyicon-hearth red"></i>{{notf.from.birth_date}}</small>
+                </div>
+                <div class="photo">
+                    <img alt="" src="img/samples/photo-1.jpg">
+                </div>
+            </li>
+        </ul>
+        </div>
+        <div class="row empty-notifications-list" ng-show="!notificationList">
+            <p class="margin-bottom-28 margin-top-100"><i class="modellyicon-bell blue"></i></p>
+            <p class="margin-bottom-28">You haven't got Any<br>Notification Yet</p>
+            <p class="font-book">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed leo risus, sagittisat tincidunt</p>
+        </div>
+    </div>
+
+    <!-- discovery settings -->
+    <div ng-show="hasDiscoverMenu" class="header-panel discovery-filters" ng-controller="DiscoverMenuCtrl">
+        <div class="group-title">I’m searching</div>
+        <div class="btn-group margin-bottom-10" role="group" aria-label="...">
+            <button type="button" class="btn" ng-class="{active:lookingFor == 1}" ng-click="lookingFor = 1"><i class="modellyicon-user-male"></i>Male</button>
+            <button type="button" class="btn" ng-class="{active:lookingFor == 2}" ng-click="lookingFor = 2"><i class="modellyicon-user-female"></i>Female</button>
+        </div>
+
+        <div class="col-xs-12 rzslider-container">
+            <div class="group-title">Whithin</div>
+            <rzslider
+                    rz-slider-floor="1"
+                    rz-slider-ceil="800"
+                    rz-slider-model="range"
+                    rz-slider-translate="translate">
+            </rzslider>
+            <div class="rzslider-value">{{range}} km</div>
+        </div>
+        <div class="col-xs-12 rzslider-container">
+            <div class="group-title">age up to</div>
+            <rzslider
+                    rz-slider-floor="18"
+                    rz-slider-ceil="70"
+                    rz-slider-model="minAge"
+                    rz-slider-high="maxAge"
+                    rz-slider-step="1">
+            </rzslider>
+            <div class="rzslider-value">{{minAge + '-' +maxAge}}</div>
+        </div>
+    </div>
+
+    <!-- search overlay-->
+
+    <div ng-show="hasSearchPopup" id="DiscoverSearch" class="discovery-search">
+        <div class="col-xs-12">
+            <ul class="notifications-list margin-top-10">
+                <li ng-repeat="item in searchItems" ng-click="selectedSearchItem($index)">
+                    <div class="user-avatar"> <img ng-src="{{item.avatar.thumbnail.url}}"> </div>
+                    <div class="content">
+                        <h4>{{item.username}}</h4>
+                        <small ng-if="item.birth_date"><i class="modellyicon-hearth red"></i>{{item.birth_date | ageresolve }} years, {{item.moments_count}} moments</small>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+</nav>

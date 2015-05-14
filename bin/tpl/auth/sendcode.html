@@ -1,0 +1,59 @@
+
+<div class="row absolute full top">
+
+    <div class="col-xs-8 col-xs-offset-2 margin-top-32 text-center">
+        <p class="font-header">To create an account</br>
+            please verify your phone number
+        </p>
+    </div>
+
+
+</div>
+
+
+<div>
+    <div class="row absolute full top25">
+    <form role="form">
+    <div class="col-xs-12 margin-top-20">
+        <div class="form-group">
+        <input style="position: absolute;top:0px;left:0px;" class="form-control line text-center" type="text" ng-click="openSelect()" ng-model="country.name" placeholder="Select country"/>
+        <select style="opacity: 0;position: relative;top:0px;left:0px" class="form-control line text-center" ng-model="data.countryNum" >
+            <option value="default">Select Country</option>
+            <option ng-repeat="c in countryList" value="{{c.alpha2}}">{{c.name}}</option>
+        </select>
+        </div>
+    </div>
+
+
+    <div class="col-xs-12 margin-top-20">
+        <div class="form-group">
+            <a class="clear-error" ng-click="clearPhone()" ng-if="phoneError"><i class="modellyicon-close"></i></a>
+            <input id="PhoneNumber" type="tel" class="form-control line" ng-model="phone" placeholder="Phone Number"/>
+            <!-- ng-change="verifyPhone()" -->
+        </div>
+    </div>
+    <div class="col-xs-12 text-center margin-top-40 margin-bottom-40">
+        <p class="font-book">By continuing, I agree the <span ng-click="openTerms()" class="blue">Terms</span>, and<br>
+            that <b class="font-book">I’m over 18 years old</b></p>
+    </div>
+    <div class="col-xs-4 margin-bottom-8 text-left">
+        <a ui-sref="auth/image" class="blue padding-10">Back</a>
+    </div>
+    <div class="col-xs-4 margin-bottom-8 text-left">
+        <ul class="progress">
+            <li></li>
+            <li></li>
+            <li class="active"></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="col-xs-4 margin-bottom-8 text-right">
+        <a ng-click="proceed()" class="padding-10" ng-class="{blue:canProceed}">Next</a>
+    </div>
+</form>
+
+</div>
+</div>
+
+
