@@ -12,8 +12,11 @@ var application = angular.module('modelly',['ui.router','rzModule','geo-ng'],fun
         // #debug ::
 
         if(window.location.href.indexOf('localhost')!= -1 || window.location.href.indexOf('milosolutions')!= -1){
-            $http._baseURL = 'http://178.79.180.206/api/v1/';
-            window.isdebug.baseURL ='http://178.79.180.206/';
+            //$http._baseURL = 'http://178.79.180.206/api/v1/';
+            $http._baseURL = 'http://213.219.37.211/api/v1/';
+            window.isdebug.baseURL ='http://213.219.37.211/';//http://178.79.180.206/';
+            //$http._baseURL = 'http://178.79.180.206/api/v1/';
+            //window.isdebug.baseURL ='http://178.79.180.206/';
         } else {
             $http._baseURL = '/api/v1/';
         }
